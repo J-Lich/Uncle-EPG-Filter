@@ -106,17 +106,26 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-
-      - name: Commit and push changes
+          
+      - name: Check for changes
+        id: check_changes
         run: |
           git add custom-channels-tvg-ids.txt
           if git diff --staged --quiet; then
+            echo "changes=false" >> $GITHUB_OUTPUT
             echo "No changes to commit"
           else
-            git commit -m "Update custom-channels-tvg-ids.txt - ${{ steps.extract.outputs.channel_count }} channels from M3U8"
-            git push
-            echo "Changes committed and pushed successfully"
-
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected, will commit"
+          fi
+          
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changes == 'true'
+        run: |
+          git commit -m "Update custom-channels-tvg-ids.txt - ${{ steps.extract.outputs.channel_count }} channels from M3U8"
+          git push
+          echo "Changes committed and pushed successfully"
+  
       - name: Create job summary
         run: |
           echo "## 📺 M3U8 TVG-ID Extraction Results" >> $GITHUB_STEP_SUMMARY
