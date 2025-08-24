@@ -6,11 +6,12 @@ import requests
 name = "custom-channels"
 save_as_gz = True  
 
-output_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "epgs")
-os.makedirs(output_dir, exist_ok=True)  
+#output_dir = os.path.join(os.path.dirname(os.path.dirname(__file__)), "epgs")
+#os.makedirs(output_dir, exist_ok=True)  
 
 tvg_ids_file = os.path.join(os.path.dirname(__file__), f"{name}-tvg-ids.txt")
-output_file = os.path.join(output_dir, f"{name}-epg.xml")
+#output_file = os.path.join(output_dir, f"{name}-epg.xml")
+output_file = os.path.join(os.path.dirname(os.path.dirname(__file__)), f"{name}-epg.xml")
 output_file_gz = output_file + '.gz'
 
 def fetch_and_extract_xml(url):
