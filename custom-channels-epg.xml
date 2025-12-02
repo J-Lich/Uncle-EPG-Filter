@@ -23,258 +23,6 @@
     <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/RTV/RTD_425x243.png" />
     <url>http://www.foxtel.com</url>
   </channel>
-  <programme start="20251130003000 +0800" stop="20251130013000 +0800" channel="TVSN.au">
-    <title lang="en">Black Friday Sale! Jewellery!</title>
-    <desc lang="en">Get ready for anticipated deals on your favourite products across fashion, beauty, homewares, and more. Shop some of the best deals of the year and treat yourself to something special.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130013000 +0800" stop="20251130023000 +0800" channel="TVSN.au">
-    <title lang="en">Black Friday Sale! Fashion!</title>
-    <desc lang="en">Get ready for anticipated deals on your favourite products across fashion, beauty, homewares, and more. Shop some of the best deals of the year and treat yourself to something special.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130023000 +0800" stop="20251130033000 +0800" channel="TVSN.au">
-    <title lang="en">Black Friday Sale! Beauty!</title>
-    <desc lang="en">Get ready for anticipated deals on your favourite products across fashion, beauty, homewares, and more. Shop some of the best deals of the year and treat yourself to something special.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130033000 +0800" stop="20251130043000 +0800" channel="TVSN.au">
-    <title lang="en">Black Friday Sale! Fashion!</title>
-    <desc lang="en">Get ready for anticipated deals on your favourite products across fashion, beauty, homewares, and more. Shop some of the best deals of the year and treat yourself to something special.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130043000 +0800" stop="20251130053000 +0800" channel="TVSN.au">
-    <title lang="en">Black Friday Sale! FINALE!</title>
-    <desc lang="en">Get ready for anticipated deals on your favourite products across fashion, beauty, homewares, and more. Shop some of the best deals of the year and treat yourself to something special.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130053000 +0800" stop="20251130063000 +0800" channel="TVSN.au">
-    <title lang="en">Good Morning TVSN</title>
-    <desc lang="en">Kick off your mornings with TVSN as we showcase hot products with offer sneak peeks and our lively competitions. Enjoy vibrant and engaging mornings with TVSN!</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130063000 +0800" stop="20251130073000 +0800" channel="TVSN.au">
-    <title lang="en">Nourish London Skincare</title>
-    <desc lang="en">Unlock radiant skin! Nourish London blends natural ingredients with cutting-edge science for clinically proven results. Achieve a healthy, beautiful complexion - naturally!</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130073000 +0800" stop="20251130083000 +0800" channel="TVSN.au">
-    <title lang="en">Around the Garden</title>
-    <desc lang="en">Get ready to garden glow-up! The outdoor seasons are here and your yard needs some TLC. Discover our blooming brilliant tips and products to transform your outdoor space today.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130083000 +0800" stop="20251130093000 +0800" channel="TVSN.au">
-    <title lang="en">My Hair Doctor</title>
-    <desc lang="en">Crafted by hairdresser and trichologist Guy Parsons. This specially formulated collection features handpicked botanicals and scientifically proven ingredients for optimal hair and scalp care.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130093000 +0800" stop="20251130103000 +0800" channel="TVSN.au">
-    <title lang="en">Diane Gilman Fashion</title>
-    <desc lang="en">Find Your Dream Denim. Comfort meets confidence! Explore the Jean Queen's latest collection. Classic and trendy styles for every body. Look and feel amazing with this range.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130103000 +0800" stop="20251130113000 +0800" channel="TVSN.au">
-    <title lang="en">The Skincare Tools</title>
-    <desc lang="en">Elevate your beauty routine with the latest innovations designed for flawless skin. Experience professional-grade results at home. Discover radiant, healthy skin today!</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130113000 +0800" stop="20251130123000 +0800" channel="TVSN.au">
-    <title lang="en">Nespresso Coffee Machine!</title>
-    <desc lang="en">Tune in as we fill your home with the aroma of your favourite blend of Nespresso Coffee! Sit back as we brew up a sensational show of the latest and greatest blends by this iconic coffee brand.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130123000 +0800" stop="20251130133000 +0800" channel="TVSN.au">
-    <title lang="en">Around the Garden</title>
-    <desc lang="en">Get ready to garden glow-up! The outdoor seasons are here and your yard needs some TLC. Discover our blooming brilliant tips and products to transform your outdoor space today.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130133000 +0800" stop="20251130143000 +0800" channel="TVSN.au">
-    <title lang="en">Nina Leonard Fashion</title>
-    <desc lang="en">Effortless Style with Nina Leonard. Mix and match chic pieces for work or weekend. Nina Leonard's refined collection offers endless outfit possibilities. Look sharp and confident from today.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130143000 +0800" stop="20251130153000 +0800" channel="TVSN.au">
-    <title lang="en">Tefal Easy Cooking</title>
-    <desc lang="en">Cook like a French chef with ease. Tefal brings simple stylish and delicious solutions to your kitchen. Make meal-making a pleasure from prep to plate. Bon appetit every day.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130153000 +0800" stop="20251130163000 +0800" channel="TVSN.au">
-    <title lang="en">Gifts of Sterling Silver</title>
-    <desc lang="en">Uncover the elegance of this collection! Explore exquisite pieces that blend timeless charm with modern design. Perfect for celebrating special moments with diamonds set in sterling silver.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130163000 +0800" stop="20251130173000 +0800" channel="TVSN.au">
-    <title lang="en">Cadelle Leather Handbags</title>
-    <desc lang="en">Say goodbye to handbag boredom with Cadelle Leather Handbags. Fashion-conscious designs in super-soft vibrant leather colours with prints and textures. Elevate your style with sophistication.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130173000 +0800" stop="20251130183000 +0800" channel="TVSN.au">
-    <title lang="en">Dazzling Diamonds</title>
-    <desc lang="en">Embrace timeless elegance with enduring gems that radiate eternal beauty. Shine like the stars with jewellery that captures everlasting elegance.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130183000 +0800" stop="20251130193000 +0800" channel="TVSN.au">
-    <title lang="en">Around the Garden</title>
-    <desc lang="en">Get ready to garden glow-up! The outdoor seasons are here and your yard needs some TLC. Discover our blooming brilliant tips and products to transform your outdoor space today.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130193000 +0800" stop="20251130203000 +0800" channel="TVSN.au">
-    <title lang="en">My Hair Doctor</title>
-    <desc lang="en">Crafted by hairdresser and trichologist Guy Parsons. This specially formulated collection features handpicked botanicals and scientifically proven ingredients for optimal hair and scalp care.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130203000 +0800" stop="20251130213000 +0800" channel="TVSN.au">
-    <title lang="en">Diane Gilman Fashion</title>
-    <desc lang="en">Find Your Dream Denim. Comfort meets confidence! Explore the Jean Queen's latest collection. Classic and trendy styles for every body. Look and feel amazing with this range.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130213000 +0800" stop="20251130223000 +0800" channel="TVSN.au">
-    <title lang="en">The Skincare Tools</title>
-    <desc lang="en">Elevate your beauty routine with the latest innovations designed for flawless skin. Experience professional-grade results at home. Discover radiant, healthy skin today!</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130223000 +0800" stop="20251130233000 +0800" channel="TVSN.au">
-    <title lang="en">Nespresso Coffee Machine!</title>
-    <desc lang="en">Tune in as we fill your home with the aroma of your favourite blend of Nespresso Coffee! Sit back as we brew up a sensational show of the latest and greatest blends by this iconic coffee brand.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130233000 +0800" stop="20251130233000 +0800" channel="TVSN.au">
-    <title lang="en">Gifts of Gold</title>
-    <desc lang="en">Go for gold this Christmas and shop our indulgent collection of hand-picked Gifts of Gold. Sit back and let us do the hard work for you this Christmas as we unveil our show-stopping selection!</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20251130233000 +0800" stop="20251201003000 +0800" channel="TVSN.au">
-    <title lang="en">The Skincare Tools</title>
-    <desc lang="en">Elevate your beauty routine with the latest innovations designed for flawless skin. Experience professional-grade results at home. Discover radiant, healthy skin today!</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20251201003000 +0800" stop="20251201013000 +0800" channel="TVSN.au">
     <title lang="en">Nina Leonard Fashion</title>
     <desc lang="en">Effortless Style with Nina Leonard. Mix and match chic pieces for work or weekend. Nina Leonard's refined collection offers endless outfit possibilities. Look sharp and confident from today.</desc>
@@ -517,8 +265,8 @@
     </rating>
   </programme>
   <programme start="20251201233000 +0800" stop="20251202003000 +0800" channel="TVSN.au">
-    <title lang="en">Oro Nuovo Gold with Daniele</title>
-    <desc lang="en">Indulge in the irresistible Oro Nuovo collection showcasing exquisite 14k gold pieces which blend quality with form and design. Discover timeless elegance with these stunning jewellery pieces.</desc>
+    <title lang="en">Cadelle Leather Handbags</title>
+    <desc lang="en">Say goodbye to handbag boredom with Cadelle Leather Handbags. Fashion-conscious designs in super-soft vibrant leather colours with prints and textures. Elevate your style with sophistication.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Series</category>
     <country lang="en">Australia</country>
@@ -527,17 +275,26 @@
     </rating>
   </programme>
   <programme start="20251202003000 +0800" stop="20251202013000 +0800" channel="TVSN.au">
-    <title lang="en">SKINN by Dimitri James</title>
-    <desc lang="en">Glow up with SKINN. Revisit this revolutionary skincare with intelligent formulas. These exclusive and inspired products deliver a healthy radiant complexion. There's nothing else like SKINN.</desc>
+    <title lang="en">Enchanted Gardens with Gill</title>
+    <desc lang="en">Innovative products that will transform your home and transform your backyard into a magical paradise you'll enjoy all year round.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Series</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/33/93/81/339381_skinn_copy.jpg" />
     <country lang="en">Australia</country>
     <rating system="AU">
       <value>G</value>
     </rating>
   </programme>
   <programme start="20251202013000 +0800" stop="20251202023000 +0800" channel="TVSN.au">
+    <title lang="en">iRobot Robotic Vacuum</title>
+    <desc lang="en">Tired of cleaning? iRobot is the leader in robot vacuums. Make cleaning and caring for your flooring less of a chore with these hardworking robots. Loved by millions worldwide.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251202023000 +0800" stop="20251202033000 +0800" channel="TVSN.au">
     <title lang="en">Nina Leonard Fashion</title>
     <desc lang="en">Effortless Style with Nina Leonard. Mix and match chic pieces for work or weekend. Nina Leonard's refined collection offers endless outfit possibilities. Look sharp and confident from today.</desc>
     <category lang="en">Shopping</category>
@@ -547,19 +304,9 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20251202023000 +0800" stop="20251202033000 +0800" channel="TVSN.au">
-    <title lang="en">My Hair Doctor</title>
-    <desc lang="en">Crafted by hairdresser and trichologist Guy Parsons. This specially formulated collection features handpicked botanicals and scientifically proven ingredients for optimal hair and scalp care.</desc>
-    <category lang="en">Shopping</category>
-    <category lang="en">Series</category>
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20251202033000 +0800" stop="20251202043000 +0800" channel="TVSN.au">
-    <title lang="en">Gems Of The Orient</title>
-    <desc lang="en">This curated collection of gemstone jewellery features mesmerising stones from the Far East. Each piece captures the beauty and mystique of the Orient. Experience this timeless charm.</desc>
+    <title lang="en">Oro Nuovo Gold with Daniele</title>
+    <desc lang="en">Indulge in the irresistible Oro Nuovo collection showcasing exquisite 14k gold pieces which blend quality with form and design. Discover timeless elegance with these stunning jewellery pieces.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Series</category>
     <country lang="en">Australia</country>
@@ -568,10 +315,11 @@
     </rating>
   </programme>
   <programme start="20251202043000 +0800" stop="20251202053000 +0800" channel="TVSN.au">
-    <title lang="en">Oro Nuovo Gold with Daniele</title>
-    <desc lang="en">Indulge in the irresistible Oro Nuovo collection showcasing exquisite 14k gold pieces which blend quality with form and design. Discover timeless elegance with these stunning jewellery pieces.</desc>
+    <title lang="en">Nespresso Coffee Machine!</title>
+    <desc lang="en">Tune in as we fill your home with the aroma of your favourite blend of Nespresso Coffee! Sit back as we brew up a sensational show of the latest and greatest blends by this iconic coffee brand.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg" />
     <country lang="en">Australia</country>
     <rating system="AU">
       <value>G</value>
@@ -649,11 +397,10 @@
     </rating>
   </programme>
   <programme start="20251202123000 +0800" stop="20251202133000 +0800" channel="TVSN.au">
-    <title lang="en">Australian Bush Spices</title>
-    <desc lang="en">Elevate your cooking with natural, organic Australian Bush Spices. Bursting with flavour and health benefits to help you create gourmet dishes for a healthier, happier life.</desc>
+    <title lang="en">Pudding Lady Christmas Pudding</title>
+    <desc lang="en">Everyone's family-favourite Pudding Lady delivers her delicious hampers to TVSN this month! Bursting with everything you'll need for a flavoursome festive season - an ideal gift for giving!</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Series</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg" />
     <country lang="en">Australia</country>
     <rating system="AU">
       <value>G</value>
@@ -691,8 +438,8 @@
     </rating>
   </programme>
   <programme start="20251202163000 +0800" stop="20251202173000 +0800" channel="TVSN.au">
-    <title lang="en">Dimplex Cooling</title>
-    <desc lang="en">Dimplex cooling is a world leader in intelligent electric heating/cooling and renewable solutions. With Dimplex you can expect some of the most innovative and stylish home appliances.</desc>
+    <title lang="en">Splendido Gold with Federico</title>
+    <desc lang="en">Always crafted in Italy, Splendido Gold arrives in style with timeless elegance. Exquisite 14k gold jewellery for everyday or special occasions. Affordable luxury that makes a statement.</desc>
     <category lang="en">Shopping</category>
     <category lang="en">Series</category>
     <country lang="en">Australia</country>
@@ -1537,156 +1284,261 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20251130010000 +0000" stop="20251130070000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Raceday Sunday</title>
-    <desc lang="en">T'breds from Newcastle, Grafton, Traralgon, Warrnambool, Sunshine Coast, Pinjarra, Sha Tin, Otaki, Cromwell, Tokyo; Greyhound from Healesville, Capalaba, Mount Gambier, Manukau; Harness from Canberra, Stawell, Hobart, Mount Harding.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/7i43k.jpg" />
+  <programme start="20251206003000 +0800" stop="20251206013000 +0800" channel="TVSN.au">
+    <title lang="en">Dr Nassif Skincare</title>
+    <desc lang="en">Transform your skin day and night with products by this acclaimed cosmetic surgeon. Experience beauty science that embraces your skin's journey, ensuring a luminous glow 24/7.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E48</episode-num>
     <rating system="AU">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20251130070000 +0000" stop="20251130110000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Sky Racing 1 Racenight</title>
-    <desc lang="en">Thoroughbreds from Pinjarra, Sha Tin, Izmir, Craon; Greyhound Racing from Grafton, Richmond, Broken Hill, Sale, Darwin, Q2 Parklands, Doncaster, Valley; Harness Racing from Canberra, Hobart.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/9phyh.jpg" />
+  <programme start="20251206013000 +0800" stop="20251206023000 +0800" channel="TVSN.au">
+    <title lang="en">Silk Islands Treasures</title>
+    <desc lang="en">Experience pure luxury and comfort with Silk Islands Kaftans. Handcrafted with love. Each piece exudes quality and glamour in high-quality silk. Embrace elegance and comfort effortlessly.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E334</episode-num>
     <rating system="AU">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20251130110000 +0000" stop="20251130130000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Sky Racing 1 Latenight</title>
-    <desc lang="en">Thoroughbreds from Carlisle, Leicester, Fairyhouse, Izmir, Craon; Greyhound Racing from Grafton, Broken Hill, Darwin, Yarmouth, Sunderland, Q2 Parklands, Doncaster, Valley; Harness Racing from Vincennes.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6hzmc.jpg" />
+  <programme start="20251206023000 +0800" stop="20251206033000 +0800" channel="TVSN.au">
+    <title lang="en">Oil of Morocco Shirley's Favourites</title>
+    <desc lang="en">Lavish your tresses with the natural goodness of certified organic Argan oil! This range of haircare is formulated with natural oils and no sulphates for super-hydration, balance and shine.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E334</episode-num>
     <rating system="AU">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20251130130000 +0000" stop="20251130170000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Sky Racing 1 Latenight</title>
-    <desc lang="en">Thoroughbreds from Carlisle, Leicester, Fairyhouse, Izmir, Adana, Toulouse; Greyhound Racing from Yarmouth, Sunderland, Hove, Sheffield, Doncaster, Valley, Mullingar, Oxford; Harness Racing from Vincennes.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6hzmc.jpg" />
+  <programme start="20251206033000 +0800" stop="20251206043000 +0800" channel="TVSN.au">
+    <title lang="en">Nina Leonard Fashion</title>
+    <desc lang="en">Effortless Style with Nina Leonard. Mix and match chic pieces for work or weekend. Nina Leonard's refined collection offers endless outfit possibilities. Look sharp and confident from today.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E334</episode-num>
     <rating system="AU">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20251130170000 +0000" stop="20251130180000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Rosehill Showcase Replay</title>
-    <sub-title lang="en">Rosehill (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Rosehill.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130180000 +0000" stop="20251130183000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Formline Extra Encore</title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
+  <programme start="20251206043000 +0800" stop="20251206053000 +0800" channel="TVSN.au">
+    <title lang="en">Carla Oates The Beauty Chef</title>
+    <desc lang="en">Watch Carla in the kitchen whipping up certified organic and naturally fermented superfood blends - a powerhouse of nutrients and healthy bacteria. Beauty begins in the belly for radiant skin.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E334</episode-num>
     <rating system="AU">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20251130183000 +0000" stop="20251130190000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Racing Replay: Grafton Thoroughbreds</title>
-    <sub-title lang="en">Grafton (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Grafton.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/9x5s7.jpg" />
+  <programme start="20251206053000 +0800" stop="20251206063000 +0800" channel="TVSN.au">
+    <title lang="en">Good Morning TVSN</title>
+    <desc lang="en">Kick off your mornings with TVSN as we showcase hot products with offer sneak peeks and our lively competitions. Enjoy vibrant and engaging mornings with TVSN!</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E1</episode-num>
     <rating system="AU">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20251130190000 +0000" stop="20251130200000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Doomben Showcase Replay</title>
-    <sub-title lang="en">Doomben (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Doomben.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130200000 +0000" stop="20251130203000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Formline Extra Encore</title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
+  <programme start="20251206063000 +0800" stop="20251206073000 +0800" channel="TVSN.au">
+    <title lang="en">Philips Coffee Machine</title>
+    <desc lang="en">Brew cafe-quality coffee at home with the Philips Coffee Machine! From espresso to cappuccino. Enjoy barista-level drinks with ease thanks to its intuitive design and customisable settings.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg" />
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E334</episode-num>
     <rating system="AU">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20251130203000 +0000" stop="20251130210000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Racing Replay: Grafton Thoroughbreds</title>
-    <sub-title lang="en">Grafton (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Grafton.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/9x5s7.jpg" />
+  <programme start="20251206073000 +0800" stop="20251206083000 +0800" channel="TVSN.au">
+    <title lang="en">SKINN by Dimitri James</title>
+    <desc lang="en">Glow up with SKINN. Revisit this revolutionary skincare with intelligent formulas. These exclusive and inspired products deliver a healthy radiant complexion. There's nothing else like SKINN.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/33/93/81/339381_skinn_copy.jpg" />
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E1</episode-num>
     <rating system="AU">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20251130210000 +0000" stop="20251130220000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Sky Racing 1 Racemorning</title>
-    <desc lang="en">Thoroughbreds from Gavea, Woodbine, Gulfstream, Del Mar, Laurel Park, Aqueduct, Zia Park; Greyhound Racing from Healesville.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bgfch.jpg" />
+  <programme start="20251206083000 +0800" stop="20251206093000 +0800" channel="TVSN.au">
+    <title lang="en">SKINN by Dimitri James</title>
+    <desc lang="en">Glow up with SKINN. Revisit this revolutionary skincare with intelligent formulas. These exclusive and inspired products deliver a healthy radiant complexion. There's nothing else like SKINN.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/33/93/81/339381_skinn_copy.jpg" />
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E335</episode-num>
     <rating system="AU">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20251130220000 +0000" stop="20251130230000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Racing Xtra</title>
-    <desc lang="en">Lewis Willoughby and Nick Berney break down racing and sport each weekday with the latest odds, moves and betting insights.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
+  <programme start="20251206093000 +0800" stop="20251206103000 +0800" channel="TVSN.au">
+    <title lang="en">Serenade Handbags</title>
+    <desc lang="en">Make a statement with Serenade handbags that exude elegance and sophistication. With their highly structured shapes and glossy leather finishes, these bags epitomise polished style.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E335</episode-num>
     <rating system="AU">
-      <value>PG</value>
+      <value>G</value>
     </rating>
   </programme>
-  <programme start="20251130230000 +0000" stop="20251201010000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Sky Racing 1 Racemorning</title>
-    <desc lang="en">Thoroughbreds from Gavea, Woodbine, Gulfstream, Del Mar, Laurel Park, Aqueduct, Zia Park; Greyhound Racing from Healesville.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
+  <programme start="20251206103000 +0800" stop="20251206113000 +0800" channel="TVSN.au">
+    <title lang="en">Michel Germain Perfumes</title>
+    <desc lang="en">Experience romance and beauty in the form of perfume. With top notes of mango &amp; blood orange as well as a secret ingredient that lingers on the skin. So precious it is never to be revealed.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E335</episode-num>
     <rating system="AU">
-      <value>PG</value>
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251206113000 +0800" stop="20251206123000 +0800" channel="TVSN.au">
+    <title lang="en">Lula Soul Fashion</title>
+    <desc lang="en">Dive into Lula Soul's vibrant collection of printed cotton pieces. Create cool and comfortable outfits that express your unique style. Elevate your wardrobe with relaxed elegance.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251206123000 +0800" stop="20251206133000 +0800" channel="TVSN.au">
+    <title lang="en">PUR - The Complexion Authority</title>
+    <desc lang="en">Re-discover PUR's advanced skincare-infused cosmetics fortified with shea butter along with vitamin E and breathable minerals. These high-tech skin-loving formulas promise a flawless complexion.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251206133000 +0800" stop="20251206143000 +0800" channel="TVSN.au">
+    <title lang="en">SKINN by Dimitri James</title>
+    <desc lang="en">Glow up with SKINN. Revisit this revolutionary skincare with intelligent formulas. These exclusive and inspired products deliver a healthy radiant complexion. There's nothing else like SKINN.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/33/93/81/339381_skinn_copy.jpg" />
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251206143000 +0800" stop="20251206153000 +0800" channel="TVSN.au">
+    <title lang="en">Matahina Pearls</title>
+    <desc lang="en">Luxury awaits! Hand-chosen pearls sourced globally. Discover brilliance with elegance and timeless style. Matahina Pearls - your investment in forever.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251206153000 +0800" stop="20251206163000 +0800" channel="TVSN.au">
+    <title lang="en">Charlie Bears Christmas Collectables</title>
+    <desc lang="en">Handmade in Southern England. Charlie Bears collectible plush bears are of the highest quality. Enjoy a special hour today with perfectly sweet Christmas Collectables that will delight enthusiasts.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251206163000 +0800" stop="20251206173000 +0800" channel="TVSN.au">
+    <title lang="en">Pharma Botanica Wellbeing</title>
+    <desc lang="en">Revitalise your health with Pharma Botanica's organic and extract-free formulas. Suitable for vegetarians and vegans. These naturopathic blends enhance wellbeing for a higher quality of life.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251206173000 +0800" stop="20251206183000 +0800" channel="TVSN.au">
+    <title lang="en">SBC Beauty</title>
+    <desc lang="en">Unlock years of botanical expertise with this range from this renowned British brand SBC. Enjoy skincare for your face and body that captures the essence of beauty and sophistication.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251206183000 +0800" stop="20251206193000 +0800" channel="TVSN.au">
+    <title lang="en">SKINN by Dimitri James</title>
+    <desc lang="en">Glow up with SKINN. Revisit this revolutionary skincare with intelligent formulas. These exclusive and inspired products deliver a healthy radiant complexion. There's nothing else like SKINN.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/33/93/81/339381_skinn_copy.jpg" />
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251206193000 +0800" stop="20251206203000 +0800" channel="TVSN.au">
+    <title lang="en">Matahina Pearls</title>
+    <desc lang="en">Luxury awaits! Hand-chosen pearls sourced globally. Discover brilliance with elegance and timeless style. Matahina Pearls - your investment in forever.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251206203000 +0800" stop="20251206213000 +0800" channel="TVSN.au">
+    <title lang="en">Charlie Bears Christmas Collectables</title>
+    <desc lang="en">Handmade in Southern England. Charlie Bears collectible plush bears are of the highest quality. Enjoy a special hour today with perfectly sweet Christmas Collectables that will delight enthusiasts.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251206213000 +0800" stop="20251206223000 +0800" channel="TVSN.au">
+    <title lang="en">Pharma Botanica Wellbeing</title>
+    <desc lang="en">Revitalise your health with Pharma Botanica's organic and extract-free formulas. Suitable for vegetarians and vegans. These naturopathic blends enhance wellbeing for a higher quality of life.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251206223000 +0800" stop="20251206233000 +0800" channel="TVSN.au">
+    <title lang="en">Serenade Handbags</title>
+    <desc lang="en">Make a statement with Serenade handbags that exude elegance and sophistication. With their highly structured shapes and glossy leather finishes, these bags epitomise polished style.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251206233000 +0800" stop="20251206233000 +0800" channel="TVSN.au">
+    <title lang="en">Philips Coffee Machine</title>
+    <desc lang="en">Brew cafe-quality coffee at home with the Philips Coffee Machine! From espresso to cappuccino. Enjoy barista-level drinks with ease thanks to its intuitive design and customisable settings.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg" />
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20251206233000 +0800" stop="20251207003000 +0800" channel="TVSN.au">
+    <title lang="en">Philips Coffee Machine</title>
+    <desc lang="en">Brew cafe-quality coffee at home with the Philips Coffee Machine! From espresso to cappuccino. Enjoy barista-level drinks with ease thanks to its intuitive design and customisable settings.</desc>
+    <category lang="en">Shopping</category>
+    <category lang="en">Series</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/73/18/91/731891_p15024371_b_h9_aa_360.jpg" />
+    <country lang="en">Australia</country>
+    <rating system="AU">
+      <value>G</value>
     </rating>
   </programme>
   <programme start="20251201010000 +0000" stop="20251201070000 +0000" channel="SkyRacing1.au">
@@ -2373,54 +2225,79 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130010000 +0000" stop="20251130070000 +0000" channel="SkyRacing2.au">
-    <title lang="en">Live: Sky Racing 2 Raceday</title>
-    <desc lang="en">T'breds from Sha Tin, Otaki, Cromwell, Selangor Malaysia, Tokyo, Remington Park, Seoul, Busan; Greyhound from Healesville, Capalaba, Murray Bridge, Manukau, Monmore, Nottingham; Harness from Mount Harding, Meadowlands, Hoosier Park.</desc>
+  <programme start="20251206010000 +0000" stop="20251206070000 +0000" channel="SkyRacing1.au">
+    <title lang="en">Live: Raceday Saturday</title>
+    <desc lang="en">Thoroughbreds from Rosehill, Newcastle, Albury, Ballarat, Wangaratta, Doomben, Gold Coast, Morphettville, Ascot, Pukekohe, Trentham.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/ampky.jpg" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/6uvdc.jpg" />
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E334</episode-num>
+    <episode-num system="onscreen">S25 E49</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130070000 +0000" stop="20251130130000 +0000" channel="SkyRacing2.au">
-    <title lang="en">Live: Sky Racing 2 Racenight</title>
-    <desc lang="en">T'breds from Sha Tin, Selangor Malaysia, Carlisle, Leicester, Izmir, Craon, Seoul, Busan, Scottsville; Greyhound from Broken Hill, Rockhampton, Darwin, Yarmouth, Sunderland, Q2 Parklands, Doncaster, Valley; Harness from Beaumont-de-Lomagne.</desc>
+  <programme start="20251206070000 +0000" stop="20251206110000 +0000" channel="SkyRacing1.au">
+    <title lang="en">Live: Sky Racing 1 Racenight</title>
+    <desc lang="en">Thoroughbreds from Doomben, Toowoomba, Morphettville, Ascot, Chantilly; Greyhound Racing from Wentworth Park, The Meadows; Harness Racing from Menangle, Melton, Albion Park.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/8jo3x.jpg" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/9phyh.jpg" />
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E334</episode-num>
+    <episode-num system="onscreen">S25 E340</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130130000 +0000" stop="20251130170000 +0000" channel="SkyRacing2.au">
-    <title lang="en">Live: Sky Racing 2 Latenight</title>
-    <desc lang="en">Thoroughbreds from Carlisle, Leicester, Fairyhouse, Izmir; Greyhound Racing from Yarmouth, Sunderland, Hove, Sheffield, Doncaster, Valley, Mullingar, Oxford; Harness Racing from Beaumont-de-Lomagne, Vincennes, Foggia.</desc>
+  <programme start="20251206110000 +0000" stop="20251206130000 +0000" channel="SkyRacing1.au">
+    <title lang="en">Live: Sky Racing 1 Latenight</title>
+    <desc lang="en">Thoroughbreds from Riyadh, Chantilly; Greyhound Racing from Wentworth Park, The Meadows, Cannington; Harness Racing from Menangle, Melton, Albion Park.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/8af0t.jpg" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6hzmc.jpg" />
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E334</episode-num>
+    <episode-num system="onscreen">S25 E340</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130170000 +0000" stop="20251130180000 +0000" channel="SkyRacing2.au">
-    <title lang="en">Doomben Showcase Replay</title>
-    <sub-title lang="en">Doomben (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Doomben.</desc>
+  <programme start="20251206130000 +0000" stop="20251206180000 +0000" channel="SkyRacing1.au">
+    <title lang="en">Live: Sky Racing 1 Latenight</title>
+    <desc lang="en">Thoroughbreds from Abu Dhabi, Riyadh, Wolverhampton, Chantilly, Marseille Vivaux; Greyhound Racing from Cannington.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6hzmc.jpg" />
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E340</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206180000 +0000" stop="20251206183000 +0000" channel="SkyRacing1.au">
+    <title lang="en">Formline Extra Encore</title>
+    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E340</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206183000 +0000" stop="20251206190000 +0000" channel="SkyRacing1.au">
+    <title lang="en">Racing Replay: Newcastle Thoroughbreds</title>
+    <sub-title lang="en">Newcastle (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Newcastle.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bvlpj.jpg" />
+    <country lang="en">Australia</country>
     <episode-num system="onscreen">S25 E1</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130180000 +0000" stop="20251130190000 +0000" channel="SkyRacing2.au">
+  <programme start="20251206190000 +0000" stop="20251206200000 +0000" channel="SkyRacing1.au">
     <title lang="en">Rosehill Showcase Replay</title>
     <sub-title lang="en">Rosehill (R)</sub-title>
     <desc lang="en">Highlights of Thoroughbred racing from Rosehill.</desc>
@@ -2431,45 +2308,38 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130190000 +0000" stop="20251130193000 +0000" channel="SkyRacing2.au">
+  <programme start="20251206200000 +0000" stop="20251206203000 +0000" channel="SkyRacing1.au">
     <title lang="en">Formline Extra Encore</title>
     <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E334</episode-num>
+    <episode-num system="onscreen">S25 E340</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130193000 +0000" stop="20251130203000 +0000" channel="SkyRacing2.au">
-    <title lang="en">Weigh In</title>
-    <desc lang="en">A panel of racing buffs review the weekend's thoroughbred meetings across New Zealand, as well as discuss issues facing the industry, and sneak in a few laughs.</desc>
+  <programme start="20251206203000 +0000" stop="20251206210000 +0000" channel="SkyRacing1.au">
+    <title lang="en">Racing Replay: Albury Thoroughbreds</title>
+    <sub-title lang="en">Albury (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Albury.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E15</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130203000 +0000" stop="20251130210000 +0000" channel="SkyRacing2.au">
-    <title lang="en">Thoroughbreds Are Go Encore</title>
-    <desc lang="en">Caroline Searcy's thoroughbred re-homing program with trainer Gary Portelli judging at Sydney Royal Easter Show. Life With Horses welcomes Aged Care residents to mix with thoroughbreds &amp; the slow ex-racehorse guarding star Stefi Magnetica!</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E10</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130210000 +0000" stop="20251201010000 +0000" channel="SkyRacing2.au">
-    <title lang="en">Live: Sky Racing 2 Racemorning</title>
-    <desc lang="en">Greyhound Racing from Lifford, Clonmel, Star Pelaw.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/8af0t.jpg" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/9t9n6.jpg" />
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E335</episode-num>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206210000 +0000" stop="20251207010000 +0000" channel="SkyRacing1.au">
+    <title lang="en">Live: Sky Racing 1 Racemorning</title>
+    <desc lang="en">Thoroughbreds from Woodbine, Los Alamitos, Gulfstream, Tampa Bay, Laurel Park, Aqueduct, Zia Park.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bgfch.jpg" />
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E341</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
@@ -3004,317 +2874,123 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130000000 +0000" stop="20251130003000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Kempsey Thoroughbreds</title>
-    <sub-title lang="en">Kempsey (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Kempsey.</desc>
+  <programme start="20251206010000 +0000" stop="20251206070000 +0000" channel="SkyRacing2.au">
+    <title lang="en">Live: Sky Racing 2 Raceday</title>
+    <desc lang="en">Thoroughbreds from Pukekohe, Trentham, San Isidro, Woodbine, Los Alamitos, Gulfstream, Tampa Bay, Laurel Park, Aqueduct, Penn National, Charles Town, Remington Park, Seoul; Harness Racing from Geraldine.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130003000 +0000" stop="20251130020000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Live: Thoroughbred Preview Live</title>
-    <desc lang="en">The most comprehensive form guide for today's racing, stay up to date with expert tips, exclusive ratings, strike rates and \"black book\" specials.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E334</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130020000 +0000" stop="20251130065200 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Live: Sky Thoroughbred Central Raceday</title>
-    <desc lang="en">Thoroughbreds from Newcastle, Grafton, Sunshine Coast.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6bk17.jpg" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/ampky.jpg" />
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E334</episode-num>
+    <episode-num system="onscreen">S25 E340</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130065200 +0000" stop="20251130073000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Live: Formline Extra Live</title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+  <programme start="20251206070000 +0000" stop="20251206130000 +0000" channel="SkyRacing2.au">
+    <title lang="en">Live: Sky Racing 2 Racenight</title>
+    <desc lang="en">Thoroughbreds from Istanbul, Navan, Wetherby, Aintree, Chepstow, Sandown, Angers, Chantilly, Seoul; Greyhound Racing from The Gardens, Geelong, Monmore, Romford; Harness Racing from Gloucester Park, Vincennes.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E334</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130073000 +0000" stop="20251130100000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Live: Sky Thoroughbred Central Racenight</title>
-    <desc lang="en">Thoroughbreds from Pinjarra &amp; Sha Tin.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/9l7j3.jpg" />
-    <episode-num system="onscreen">S25 E334</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130100000 +0000" stop="20251130103000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Formline Extra Encore</title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/8jo3x.jpg" />
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E334</episode-num>
+    <episode-num system="onscreen">S25 E340</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130103000 +0000" stop="20251130110000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Newcastle Thoroughbreds</title>
-    <sub-title lang="en">Newcastle (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Newcastle.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bvlpj.jpg" />
-    <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130110000 +0000" stop="20251130113000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Grafton T'breds</title>
-    <sub-title lang="en">Grafton (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Grafton.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130113000 +0000" stop="20251130120000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Thoroughbreds Are Go Encore</title>
-    <desc lang="en">Caroline Searcy finds retired broodmares Crowned Glory, Tropical Affair &amp; Dearness at Gooree Park Stud in their 20's. Kate Dallimore with a thoroughbred, days off the track &amp; Rachel King with 2 gorgeous greys.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E10</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130120000 +0000" stop="20251130123000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Sunshine Coast T/breds</title>
-    <sub-title lang="en">Sunshine Coast (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Sunshine Coast.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130123000 +0000" stop="20251130130000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Formline Extra Encore</title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E334</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130130000 +0000" stop="20251130140000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Road To Cheltenham</title>
-    <desc lang="en">This week on Road To Cheltenham Lydia Hislop is once again joined by Ruby Walsh for a journey all the way to The Festival in March.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E28</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130140000 +0000" stop="20251130143000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Thoroughbreds Are Go Encore</title>
-    <desc lang="en">Caroline Searcy finds retired broodmares Crowned Glory, Tropical Affair &amp; Dearness at Gooree Park Stud in their 20's. Kate Dallimore with a thoroughbred, days off the track &amp; Rachel King with 2 gorgeous greys.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E10</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130143000 +0000" stop="20251130150000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Newcastle Thoroughbreds</title>
-    <sub-title lang="en">Newcastle (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Newcastle.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bvlpj.jpg" />
-    <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130150000 +0000" stop="20251130160000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">The Jocks</title>
-    <desc lang="en">Tommy Berry and Chad Schofield both soared to early success, only to be derailed by life-changing setbacks. Follow their fight to rebuild, revealing the physical toll of racing, and the inner strength it takes to claw their way back.</desc>
-    <date>2025</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E23</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130160000 +0000" stop="20251130163000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Formline Extra Encore</title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E334</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130163000 +0000" stop="20251130170000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">This Racing Life</title>
-    <desc lang="en">We close out this series in the idyllic setting of Northumberland as we catch up with trainers Paul Robson and Adam Nicol respectively, as well as visiting equine-bedding specialists, Bedmax.</desc>
+  <programme start="20251206130000 +0000" stop="20251206180000 +0000" channel="SkyRacing2.au">
+    <title lang="en">Live: Sky Racing 2 Latenight</title>
+    <desc lang="en">Thoroughbreds from Istanbul, Adana, Navan, Wetherby, Aintree, Chepstow, Sandown, Chantilly; Greyhound Racing from Monmore, Romford, Newcastle, Swindon, Yarmouth; Harness Racing from Gloucester Park, Vincennes.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/8af0t.jpg" />
-    <episode-num system="onscreen">S25 E5</episode-num>
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E340</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130170000 +0000" stop="20251130173000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Grafton Thoroughbreds</title>
-    <sub-title lang="en">Grafton (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Grafton.</desc>
+  <programme start="20251206180000 +0000" stop="20251206183000 +0000" channel="SkyRacing2.au">
+    <title lang="en">Racing Replay: Gold Coast T/breds</title>
+    <sub-title lang="en">Gold Coast (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Gold Coast.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/9x5s7.jpg" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/8af0t.jpg" />
     <country lang="en">Australia</country>
     <episode-num system="onscreen">S25 E1</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130173000 +0000" stop="20251130180000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Thoroughbreds Are Go Encore</title>
-    <desc lang="en">Caroline Searcy finds retired broodmares Crowned Glory, Tropical Affair &amp; Dearness at Gooree Park Stud in their 20's. Kate Dallimore with a thoroughbred, days off the track &amp; Rachel King with 2 gorgeous greys.</desc>
+  <programme start="20251206183000 +0000" stop="20251206190000 +0000" channel="SkyRacing2.au">
+    <title lang="en">Racing Replay: Newcastle Thoroughbreds</title>
+    <sub-title lang="en">Newcastle (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Newcastle.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E10</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130180000 +0000" stop="20251130190000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Rosehill Showcase Replay</title>
-    <sub-title lang="en">Rosehill (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Rosehill.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130190000 +0000" stop="20251130193000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Grafton Thoroughbreds</title>
-    <sub-title lang="en">Grafton (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Grafton.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/9x5s7.jpg" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bvlpj.jpg" />
     <country lang="en">Australia</country>
     <episode-num system="onscreen">S25 E1</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130193000 +0000" stop="20251130200000 +0000" channel="SkyThoroughbredCentral.au">
+  <programme start="20251206190000 +0000" stop="20251206193000 +0000" channel="SkyRacing2.au">
     <title lang="en">Formline Extra Encore</title>
     <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E334</episode-num>
+    <episode-num system="onscreen">S25 E340</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130200000 +0000" stop="20251130210000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">The Jocks</title>
-    <desc lang="en">Tommy Berry and Chad Schofield both soared to early success, only to be derailed by life-changing setbacks. Follow their fight to rebuild, revealing the physical toll of racing, and the inner strength it takes to claw their way back.</desc>
+  <programme start="20251206193000 +0000" stop="20251206200000 +0000" channel="SkyRacing2.au">
+    <title lang="en">Thoroughbreds Are Go Encore</title>
+    <desc lang="en">Caroline Searcy's thoroughbred re-homing program with trainer Gary Portelli judging at Sydney Royal Easter Show. Life With Horses welcomes Aged Care residents to mix with thoroughbreds &amp; the slow ex-racehorse guarding star Stefi Magnetica!</desc>
     <date>2025</date>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E23</episode-num>
+    <episode-num system="onscreen">S25 E1</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130210000 +0000" stop="20251130213000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Grafton Thoroughbreds</title>
-    <sub-title lang="en">Grafton (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Grafton.</desc>
+  <programme start="20251206200000 +0000" stop="20251206203000 +0000" channel="SkyRacing2.au">
+    <title lang="en">Racing Replay: Albury Thoroughbreds</title>
+    <sub-title lang="en">Albury (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Albury.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/9x5s7.jpg" />
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/9t9n6.jpg" />
     <country lang="en">Australia</country>
     <episode-num system="onscreen">S25 E1</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20251130213000 +0000" stop="20251130220000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Sunshine Coast T/breds</title>
-    <sub-title lang="en">Sunshine Coast (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Sunshine Coast.</desc>
+  <programme start="20251206203000 +0000" stop="20251206210000 +0000" channel="SkyRacing2.au">
+    <title lang="en">Racing Replay: Ascot Thoroughbreds</title>
+    <sub-title lang="en">Ascot (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Ascot.</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/7z3nc.jpg" />
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206210000 +0000" stop="20251207010000 +0000" channel="SkyRacing2.au">
+    <title lang="en">Live: Sky Racing 2 Racemorning</title>
+    <desc lang="en">Thoroughbreds from Charles Town, Remington Park; Greyhound Racing from Monmore, Nottingham; Harness Racing from Mohawk, Flamboro Downs, Meadowlands, Northfield Park.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/8af0t.jpg" />
     <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130220000 +0000" stop="20251130223000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Thoroughbreds Are Go Encore</title>
-    <desc lang="en">Caroline Searcy finds retired broodmares Crowned Glory, Tropical Affair &amp; Dearness at Gooree Park Stud in their 20's. Kate Dallimore with a thoroughbred, days off the track &amp; Rachel King with 2 gorgeous greys.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E10</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130223000 +0000" stop="20251130233000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Rosehill Showcase Replay</title>
-    <sub-title lang="en">Rosehill (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Rosehill.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S25 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251130233000 +0000" stop="20251201000000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Sunshine Coast T/breds</title>
-    <sub-title lang="en">Sunshine Coast (R)</sub-title>
-    <desc lang="en">Highlights of Thoroughbred racing from Sunshine Coast.</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <country lang="en">Australia</country>
-    <episode-num system="onscreen">S25 E1</episode-num>
+    <episode-num system="onscreen">S25 E341</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
@@ -4890,180 +4566,313 @@
       <value>PG</value>
     </rating>
   </programme>
+  <programme start="20251206000000 +0000" stop="20251206013000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Live: Thoroughbred Preview Live</title>
+    <desc lang="en">The most comprehensive form guide for today's racing, stay up to date with expert tips, exclusive ratings, strike rates and \"black book\" specials.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <episode-num system="onscreen">S25 E340</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206013000 +0000" stop="20251206073000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Live: Sky Thoroughbred Central Raceday</title>
+    <desc lang="en">Thoroughbreds from Rosehill, Newcastle, Doomben.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6bk17.jpg" />
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E340</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206073000 +0000" stop="20251206080000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Live: Formline Extra Live</title>
+    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <episode-num system="onscreen">S25 E340</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206080000 +0000" stop="20251206100000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Live: Sky Thoroughbred Central Racenight</title>
+    <desc lang="en">Thoroughbreds from Ascot.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <episode-num system="onscreen">S25 E340</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206100000 +0000" stop="20251206110000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Rosehill Showcase Replay</title>
+    <sub-title lang="en">Rosehill (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Rosehill.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206110000 +0000" stop="20251206113000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Formline Extra Encore</title>
+    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E340</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206113000 +0000" stop="20251206123000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Doomben Showcase Replay</title>
+    <sub-title lang="en">Doomben (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Doomben.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206123000 +0000" stop="20251206130000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay: Newcastle Thoroughbreds</title>
+    <sub-title lang="en">Newcastle (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Newcastle.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bvlpj.jpg" />
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206130000 +0000" stop="20251206133000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay: Albury Thoroughbreds</title>
+    <sub-title lang="en">Albury (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Albury.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/9t9n6.jpg" />
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206133000 +0000" stop="20251206140000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Formline Extra Encore</title>
+    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E340</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206140000 +0000" stop="20251206143000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay: Gold Coast T/breds</title>
+    <sub-title lang="en">Gold Coast (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Gold Coast.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/8af0t.jpg" />
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206143000 +0000" stop="20251206153000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Rosehill Showcase Replay</title>
+    <sub-title lang="en">Rosehill (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Rosehill.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206153000 +0000" stop="20251206160000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay: Ascot Thoroughbreds</title>
+    <sub-title lang="en">Ascot (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Ascot.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/7z3nc.jpg" />
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206160000 +0000" stop="20251206163000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay: Gunnedah Thoroughbreds</title>
+    <sub-title lang="en">Gunnedah (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Gunnedah.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206163000 +0000" stop="20251206170000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Formline Extra Encore</title>
+    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E340</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206170000 +0000" stop="20251206180000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Doomben Showcase Replay</title>
+    <sub-title lang="en">Doomben (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Doomben.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206180000 +0000" stop="20251206183000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Thoroughbreds Are Go Encore</title>
+    <desc lang="en">Caroline Searcy's thoroughbred re-homing program with trainer Gary Portelli judging at Sydney Royal Easter Show. Life With Horses welcomes Aged Care residents to mix with thoroughbreds &amp; the slow ex-racehorse guarding star Stefi Magnetica!</desc>
+    <date>2025</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206183000 +0000" stop="20251206190000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay: Mackay Thoroughbreds</title>
+    <sub-title lang="en">Mackay (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Mackay.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/8y0me.jpg" />
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206190000 +0000" stop="20251206193000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay: Newcastle Thoroughbreds</title>
+    <sub-title lang="en">Newcastle (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Newcastle.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bvlpj.jpg" />
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206193000 +0000" stop="20251206200000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Formline Extra Encore</title>
+    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E340</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206200000 +0000" stop="20251206210000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Rosehill Showcase Replay</title>
+    <sub-title lang="en">Rosehill (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Rosehill.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206210000 +0000" stop="20251206213000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing to Win</title>
+    <desc lang="en">The Racing To Win Team preview tonight's Hong Kong meeting.</desc>
+    <date>2025</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E82</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206213000 +0000" stop="20251206220000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Thoroughbreds Are Go Encore</title>
+    <desc lang="en">Caroline Searcy's thoroughbred re-homing program with trainer Gary Portelli judging at Sydney Royal Easter Show. Life With Horses welcomes Aged Care residents to mix with thoroughbreds &amp; the slow ex-racehorse guarding star Stefi Magnetica!</desc>
+    <date>2025</date>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206220000 +0000" stop="20251206223000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay: Gold Coast Thoroughbreds</title>
+    <sub-title lang="en">Gold Coast (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Gold Coast.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/836hw.jpg" />
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206223000 +0000" stop="20251206233000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Doomben Showcase Replay</title>
+    <sub-title lang="en">Doomben (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Doomben.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251206233000 +0000" stop="20251207000000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay: Albury Thoroughbreds</title>
+    <sub-title lang="en">Albury (R)</sub-title>
+    <desc lang="en">Highlights of Thoroughbred racing from Albury.</desc>
+    <category lang="en">Sport</category>
+    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/9t9n6.jpg" />
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S25 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
   <channel id="WION.in">
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cLnBMmSM.png" />
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cLnBMmSM.png" />
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">WION</display-name>
   </channel>
-  <programme channel="WION.in" start="20251201220000 +0530" stop="20251201223000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251201223000 +0530" stop="20251201230000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251201230000 +0530" stop="20251201233000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251201233000 +0530" stop="20251202000000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202000000 +0530" stop="20251202003000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202003000 +0530" stop="20251202010000 +0530">
-    <title lang="en">Wion Live Broadcast from USA</title>
-    <desc lang="en">The host presents the latest news updates and developments pertaining to significant social, political and economic events from the USA, live.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p20728114_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202010000 +0530" stop="20251202013000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202013000 +0530" stop="20251202020000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202020000 +0530" stop="20251202023000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202023000 +0530" stop="20251202030000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202030000 +0530" stop="20251202033000 +0530">
-    <title lang="en">Race To Power</title>
-    <desc lang="en">The host sheds light on the latest global news updates and developments pertaining to politics, economy and socio-cultural affairs.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p25936778_b_h9_ac.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202033000 +0530" stop="20251202040000 +0530">
-    <title lang="en">WION Dispatch</title>
-    <desc lang="en">The host presents the latest political, social, sports and economic updates and speaks about the recent developments from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373714_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202040000 +0530" stop="20251202043000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202043000 +0530" stop="20251202050000 +0530">
-    <title lang="en">Wion Fineprint</title>
-    <desc lang="en">The host, a professional journalist, presents an in-depth analysis of international news and developments regarding social and economic issues.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373716_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202050000 +0530" stop="20251202053000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202053000 +0530" stop="20251202060000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202060000 +0530" stop="20251202063000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202063000 +0530" stop="20251202070000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202070000 +0530" stop="20251202073000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202073000 +0530" stop="20251202080000 +0530">
-    <title lang="en">World DNA</title>
-    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202080000 +0530" stop="20251202083000 +0530">
-    <title lang="en">World DNA</title>
-    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202083000 +0530" stop="20251202090000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202090000 +0530" stop="20251202093000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20251202093000 +0530" stop="20251202100000 +0530">
-    <title lang="en">World Business Watch</title>
-    <desc lang="en">The host presents information pertaining to business and economic developments from around the world and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p21001737_b_h9_aa.jpg?lock=880x660" />
-  </programme>
   <programme channel="WION.in" start="20251202100000 +0530" stop="20251202103000 +0530">
     <title lang="en">Top Stories</title>
     <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
@@ -5239,133 +5048,180 @@
     <category lang="en">Variety Show</category>
     <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  <programme channel="WION.in" start="20251202223000 +0530" stop="20251202230000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251202230000 +0530" stop="20251202233000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251202233000 +0530" stop="20251203000000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203000000 +0530" stop="20251203003000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203003000 +0530" stop="20251203010000 +0530">
+    <title lang="en">Wion Live Broadcast from USA</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to significant social, political and economic events from the USA, live.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p20728114_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203010000 +0530" stop="20251203013000 +0530">
+    <title lang="en">Wion Pulse</title>
+    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Variety Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203013000 +0530" stop="20251203020000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203020000 +0530" stop="20251203023000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203023000 +0530" stop="20251203030000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203030000 +0530" stop="20251203033000 +0530">
+    <title lang="en">Race To Power</title>
+    <desc lang="en">The host sheds light on the latest global news updates and developments pertaining to politics, economy and socio-cultural affairs.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p25936778_b_h9_ac.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203033000 +0530" stop="20251203040000 +0530">
+    <title lang="en">WION Dispatch</title>
+    <desc lang="en">The host presents the latest political, social, sports and economic updates and speaks about the recent developments from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373714_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203040000 +0530" stop="20251203043000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203043000 +0530" stop="20251203050000 +0530">
+    <title lang="en">Wion Fineprint</title>
+    <desc lang="en">The host, a professional journalist, presents an in-depth analysis of international news and developments regarding social and economic issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373716_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203050000 +0530" stop="20251203053000 +0530">
+    <title lang="en">Wion Pulse</title>
+    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Variety Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203053000 +0530" stop="20251203060000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203060000 +0530" stop="20251203063000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203063000 +0530" stop="20251203070000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203070000 +0530" stop="20251203073000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203073000 +0530" stop="20251203080000 +0530">
+    <title lang="en">World DNA</title>
+    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203080000 +0530" stop="20251203083000 +0530">
+    <title lang="en">World DNA</title>
+    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203083000 +0530" stop="20251203090000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203090000 +0530" stop="20251203093000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203093000 +0530" stop="20251203100000 +0530">
+    <title lang="en">World Business Watch</title>
+    <desc lang="en">The host presents information pertaining to business and economic developments from around the world and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p21001737_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20251203100000 +0530" stop="20251203103000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
   <channel id="Rialto.nz">
     <display-name lang="en">Rialto</display-name>
     <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1PCTiXshgnq3uzQ6iNy4bI/d508329c01275f2a44184be0cccf046b/Rialto.png" />
     <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1PCTiXshgnq3uzQ6iNy4bI/d508329c01275f2a44184be0cccf046b/Rialto.png" />
     <url>http://www.sky.co.nz</url>
   </channel>
-  <programme start="20251201010000 +0000" stop="20251201030000 +0000" channel="Rialto.nz">
-    <title lang="en">The Way</title>
-    <desc lang="en">An impromptu adventure ensues when a father recovers the body of his estranged son. 2010. Spain, USA. Director: Emilio Estevez. Starring: Martin Sheen, Emilio Estevez, Deborah Kara Unger.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251201030000 +0000" stop="20251201041500 +0000" channel="Rialto.nz">
-    <title lang="en">Solitude</title>
-    <desc lang="en">An old farmer forms an unlikely friendship with a young paper boy. 2023. Iceland. Director: Ninna Palmadottir. Starring: Þrostur Leo Gunnarsson, Hermann Samuelsson, Anna Gunndis Guðmundsdottir.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20251201041500 +0000" stop="20251201055500 +0000" channel="Rialto.nz">
-    <title lang="en">The Glory Of Life</title>
-    <desc lang="en">The last year in Franz Kafka's life and its surprising love story. 2024. Germany. Director: Judith Kaufmann, Georg Maas. Starring: Henriette Confurius, Sabin Tambrea, Manuel Rubey.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20251201055500 +0000" stop="20251201073000 +0000" channel="Rialto.nz">
-    <title lang="en">The Umbrellas Of Cherbourg</title>
-    <desc lang="en">Genevieve and Guy's romance comes to an abrupt stop when Guy is drafted into the War. 1964. France. Director: Jacques Demy. Starring: Catherine Deneuve, Nino Castelnuovo.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251201073000 +0000" stop="20251201091000 +0000" channel="Rialto.nz">
-    <title lang="en">The Divine Sarah Bernhardt</title>
-    <desc lang="en">Sarah Bernhardt broke society's conventions, becoming the world's first star. 2024. France, Belgium. Director: Guillaume Nicloux. Starring: Sandrine Kiberlain, Laurent Lafitte.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20251201091000 +0000" stop="20251201100500 +0000" channel="Rialto.nz">
-    <title lang="en">Families Like Ours</title>
-    <desc lang="en">1/6. Comforted by her reunion with Fanny, Laura still fears that she will never see Elias again. 2024. Denmark. Director: Thomas Vinterberg. Starring: Tourialay Akbari, Marcela Andrei S1 E6.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20251201100500 +0000" stop="20251201114000 +0000" channel="Rialto.nz">
-    <title lang="en">Barbie Uncovered: A Dream House Divided</title>
-    <desc lang="en">The doors of the dreamhouse are opened wide revealing how Jack Ryan was written out of Mattel's history books. 2024. UK. Director: Eddie Hutton-Mills.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251201114000 +0000" stop="20251201124500 +0000" channel="Rialto.nz">
-    <title lang="en">Life and Death In The Warehouse</title>
-    <desc lang="en">In an attempt to keep her job, Megan presses a pregnant worker to get her 'pick rate' up. 2022. UK. Directors: Aysha Rafaele, Joseph Bullman. Starring: Craig Parkinson.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20251201124500 +0000" stop="20251201144500 +0000" channel="Rialto.nz">
-    <title lang="en">Winter Boy</title>
-    <desc lang="en">In his last year of boarding-school, the death of Lucas' father turns his life upside-down. 2022. France. Director: Christophe Honore. Starring: Paul Kircher, Vincent Lacoste, Juliette Binoche.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20251201144500 +0000" stop="20251201162000 +0000" channel="Rialto.nz">
-    <title lang="en">Acidman</title>
-    <desc lang="en">Maggie tracks down her estranged father, now living in the wilderness obsessed with UFOs; together they attempt to make first contact. 2022. US. Director: Alex Lehmann. Starring: Dianna Agron.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20251201162000 +0000" stop="20251201182000 +0000" channel="Rialto.nz">
-    <title lang="en">The Way</title>
-    <desc lang="en">An impromptu adventure ensues when a father recovers the body of his estranged son. 2010. Spain, USA. Director: Emilio Estevez. Starring: Martin Sheen, Emilio Estevez, Deborah Kara Unger.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251201182000 +0000" stop="20251201193500 +0000" channel="Rialto.nz">
-    <title lang="en">Solitude</title>
-    <desc lang="en">An old farmer forms an unlikely friendship with a young paper boy. 2023. Iceland. Director: Ninna Palmadottir. Starring: Þrostur Leo Gunnarsson, Hermann Samuelsson, Anna Gunndis Guðmundsdottir.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20251201193500 +0000" stop="20251201211500 +0000" channel="Rialto.nz">
-    <title lang="en">The Glory Of Life</title>
-    <desc lang="en">The last year in Franz Kafka's life and its surprising love story. 2024. Germany. Director: Judith Kaufmann, Georg Maas. Starring: Henriette Confurius, Sabin Tambrea, Manuel Rubey.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20251201211500 +0000" stop="20251201225000 +0000" channel="Rialto.nz">
-    <title lang="en">The Umbrellas Of Cherbourg</title>
-    <desc lang="en">Genevieve and Guy's romance comes to an abrupt stop when Guy is drafted into the War. 1964. France. Director: Jacques Demy. Starring: Catherine Deneuve, Nino Castelnuovo.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20251201225000 +0000" stop="20251202005000 +0000" channel="Rialto.nz">
-    <title lang="en">The Way</title>
-    <desc lang="en">An impromptu adventure ensues when a father recovers the body of his estranged son. 2010. Spain, USA. Director: Emilio Estevez. Starring: Martin Sheen, Emilio Estevez, Deborah Kara Unger.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20251202005000 +0000" stop="20251202023000 +0000" channel="Rialto.nz">
     <title lang="en">The Divine Sarah Bernhardt</title>
     <desc lang="en">Sarah Bernhardt broke society's conventions, becoming the world's first star. 2024. France, Belgium. Director: Guillaume Nicloux. Starring: Sandrine Kiberlain, Laurent Lafitte.</desc>
@@ -5673,6 +5529,112 @@
     <category lang="en">Movie</category>
     <rating system="NZ">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251204135500 +0000" stop="20251204143500 +0000" channel="Rialto.nz">
+    <title lang="en">Truelove</title>
+    <desc lang="en">1/5. Phil is concerned to find out that Marion's doctor wasn't aware of her dementia. UK. 2024. Directors: Carl Tibbetts, Chloe Wick. Starring: Lindsay Duncan, Clarke Peters, Fiona Button S1 E5.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20251204143500 +0000" stop="20251204152000 +0000" channel="Rialto.nz">
+    <title lang="en">Truelove</title>
+    <desc lang="en">1/6. Shaken by the truth about Marion; Ken starts to act irrationally. UK. 2024. Directors: Carl Tibbetts, Chloe Wick. Starring: Lindsay Duncan, Clarke Peters, Fiona Button S1 E6.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20251204152000 +0000" stop="20251204163500 +0000" channel="Rialto.nz">
+    <title lang="en">Bax And Beyond</title>
+    <desc lang="en">Explore Kylie Bax's  meteoric  rise to fame, with 13 international Vogue covers, she is New Zealand's first supermodel. 2024. New Zealand. Director: Neil Gussey.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20251204163500 +0000" stop="20251204183000 +0000" channel="Rialto.nz">
+    <title lang="en">Words And Pictures</title>
+    <desc lang="en">An english and art teacher prove if words or pictures are more important. 2013. USA, Canada, Australia. Director: Fred Schepisi. Starring: Clive Owen, Juliette Binoche, Bruce Davison.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251204183000 +0000" stop="20251204200500 +0000" channel="Rialto.nz">
+    <title lang="en">Ten Canoes</title>
+    <desc lang="en">By telling a mythical story, Minygululu uses an annual goose egg hunt to teach his brother the proper ways. 2006. Australia. Directors: Rolf de Heer, Peter Djigirr. Starring: Jamie Gulpilil.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20251204200500 +0000" stop="20251204214500 +0000" channel="Rialto.nz">
+    <title lang="en">Welcome To Babel</title>
+    <desc lang="en">Chinese-Australian Artist Jiawei Shen plans to create an epic work encapsulating the depth of the recent history of his homeland. 2024. Australia. Director: James Bradley.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20251204214500 +0000" stop="20251204232500 +0000" channel="Rialto.nz">
+    <title lang="en">National Anthem</title>
+    <desc lang="en">Dylan joins a vibrant workforce at a ranch in New Mexico to provide for his family, discovering his own identity. 2023. USA. Director: Luke Gilford. Starring: Charlie Plummer, Eve Lindley.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20251204232500 +0000" stop="20251205010000 +0000" channel="Rialto.nz">
+    <title lang="en">Stolen Kisses</title>
+    <desc lang="en">After being discharged from his military service, Antoine struggles with work as well as with love. 1968. France. Director: Francois Truffaut. Starring: Jean-Pierre Leaud, Claude Jade.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20251205010000 +0000" stop="20251205032000 +0000" channel="Rialto.nz">
+    <title lang="en">Godland</title>
+    <desc lang="en">Danish Priest pilgrimiges to build a church in remote Iceland. 2022. Denmark, Iceland. Director: Hlynur Palmason. Starring: Elliott Crosset Hove, Ingvar Sigurdsson, Vic Carmen Sonne.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20251205032000 +0000" stop="20251205051500 +0000" channel="Rialto.nz">
+    <title lang="en">Adieu Philippine</title>
+    <desc lang="en">Michel goes on one last vacation, followed closely by Lillian and Juliette. 1962. France, Italy. Director: Jacques Rozier. Starring: Jean-Claude Aimini, Daniel Descamps.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20251205051500 +0000" stop="20251205073000 +0000" channel="Rialto.nz">
+    <title lang="en">Splice Here: A Projected Odyssey</title>
+    <desc lang="en">Take a look at the passionate group of projectionists keeping the art of physical film projection alive. 2022. Australia. Director: Rob Murphy.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20251205073000 +0000" stop="20251205091500 +0000" channel="Rialto.nz">
+    <title lang="en">A Man And A Woman</title>
+    <desc lang="en">A Widow and a Widowers' friendship blooms into romance, but can they overcome their tragic pasts. 1966. France. Director: Claude Lelouch. Starring: Anouk Aimee, Jean-Louis Trintignant.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20251205091500 +0000" stop="20251205111000 +0000" channel="Rialto.nz">
+    <title lang="en">This Time Next Year</title>
+    <desc lang="en">Born just minutes apart, Minnie and Quinn were driven apart by time, will fate bring them back together? 2024. UK. Director: Nick Moore. Starring: Sophie Cookson, Lucien Laviscount.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
     </rating>
   </programme>
   </tv>
