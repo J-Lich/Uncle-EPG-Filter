@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <tv><channel id="TVSN.au">
     <display-name lang="en">TVSN</display-name>
-    <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/TVS/TVS_425x243.png" />
     <url>http://www.foxtel.com</url>
   </channel>
   <channel id="SkyRacing1.au">
@@ -24,249 +23,6 @@
     <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/RTV/RTD_425x243.png" />
     <url>http://www.foxtel.com</url>
   </channel>
-  <programme start="20260729003000 +0800" stop="20260729013000 +0800" channel="TVSN.au">
-    <title lang="en">Passport to the Mediterranean</title>
-    <sub-title lang="en">Wednesday 29 July 2026</sub-title>
-    <desc lang="en">Embark on a sparkling journey with Passport to the Mediterranean Jewellery. Discover exquisite designs inspired by the beauty, colour, and timeless elegance of the Mediterranean coast. Perfect for every occasion.</desc>
-    <date>2026</date>
-    <category lang="en">Special Interest</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729013000 +0800" stop="20260729023000 +0800" channel="TVSN.au">
-    <title lang="en">Silk Oil of Morocco Beauty</title>
-    <sub-title lang="en">Wednesday 29 July 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729023000 +0800" stop="20260729033000 +0800" channel="TVSN.au">
-    <title lang="en">Amanda Charles Knitwear</title>
-    <sub-title lang="en">Wednesday 29 July 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729033000 +0800" stop="20260729043000 +0800" channel="TVSN.au">
-    <title lang="en">Philips Water Station</title>
-    <sub-title lang="en">Wednesday 29 July 2026</sub-title>
-    <desc lang="en">Instant access to clean, filtered water.  Convenient and easy to use, perfect for busy families. Ditch the bottles and enjoy fresh water on demand.</desc>
-    <date>2026</date>
-    <category lang="en">Special Interest</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729043000 +0800" stop="20260729053000 +0800" channel="TVSN.au">
-    <title lang="en">NEW Tommie Copper</title>
-    <sub-title lang="en">Wednesday 29 July 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729053000 +0800" stop="20260729063000 +0800" channel="TVSN.au">
-    <title lang="en">Fitness with Fiona Summers</title>
-    <sub-title lang="en">Monday 27 July 2026</sub-title>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729063000 +0800" stop="20260729073000 +0800" channel="TVSN.au">
-    <title lang="en">Passport to the Mediterranean</title>
-    <sub-title lang="en">Wednesday 29 July 2026</sub-title>
-    <desc lang="en">Embark on a sparkling journey with Passport to the Mediterranean Jewellery. Discover exquisite designs inspired by the beauty, colour, and timeless elegance of the Mediterranean coast. Perfect for every occasion.</desc>
-    <date>2026</date>
-    <category lang="en">Special Interest</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729073000 +0800" stop="20260729083000 +0800" channel="TVSN.au">
-    <title lang="en">Amanda Charles Knitwear</title>
-    <sub-title lang="en">Wednesday 29 July 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729083000 +0800" stop="20260729093000 +0800" channel="TVSN.au">
-    <title lang="en">Silk Oil of Morocco Beauty</title>
-    <sub-title lang="en">Wednesday 29 July 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729093000 +0800" stop="20260729103000 +0800" channel="TVSN.au">
-    <title lang="en">Bissell WE MEAN CLEAN</title>
-    <sub-title lang="en">Wednesday 29 July 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bk0at.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729103000 +0800" stop="20260729113000 +0800" channel="TVSN.au">
-    <title lang="en">NEW Tommie Copper</title>
-    <sub-title lang="en">Wednesday 29 July 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729113000 +0800" stop="20260729123000 +0800" channel="TVSN.au">
-    <title lang="en">Passport to the Mediterranean</title>
-    <sub-title lang="en">Wednesday 29 July 2026</sub-title>
-    <desc lang="en">Embark on a sparkling journey with Passport to the Mediterranean Jewellery. Discover exquisite designs inspired by the beauty, colour, and timeless elegance of the Mediterranean coast. Perfect for every occasion.</desc>
-    <date>2026</date>
-    <category lang="en">Special Interest</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729123000 +0800" stop="20260729133000 +0800" channel="TVSN.au">
-    <title lang="en">Silk Oil of Morocco Beauty</title>
-    <sub-title lang="en">Wednesday 29 July 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729133000 +0800" stop="20260729143000 +0800" channel="TVSN.au">
-    <title lang="en">Amanda Charles Knitwear</title>
-    <sub-title lang="en">Wednesday 29 July 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729143000 +0800" stop="20260729153000 +0800" channel="TVSN.au">
-    <title lang="en">Philips Water Station</title>
-    <sub-title lang="en">Thursday 30 July 2026</sub-title>
-    <desc lang="en">Instant access to clean, filtered water.  Convenient and easy to use, perfect for busy families. Ditch the bottles and enjoy fresh water on demand.</desc>
-    <date>2026</date>
-    <category lang="en">Special Interest</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729153000 +0800" stop="20260729163000 +0800" channel="TVSN.au">
-    <title lang="en">NEW Tommie Copper</title>
-    <sub-title lang="en">Thursday 30 July 2026</sub-title>
-    <desc lang="en">Stay comfortable and supported with Tommy Copper. Designed for everyday movement, this innovative apparel combines comfort, compression, and performance to help you feel your best from morning to night.</desc>
-    <date>2016</date>
-    <category lang="en">Special Interest</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <country lang="en">United States</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729163000 +0800" stop="20260729173000 +0800" channel="TVSN.au">
-    <title lang="en">Fitness with Fiona Summers</title>
-    <sub-title lang="en">Thursday 30 July 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729173000 +0800" stop="20260729183000 +0800" channel="TVSN.au">
-    <title lang="en">Passport to the Mediterranean</title>
-    <sub-title lang="en">Thursday 30 July 2026</sub-title>
-    <desc lang="en">Embark on a sparkling journey with Passport to the Mediterranean Jewellery. Discover exquisite designs inspired by the beauty, colour, and timeless elegance of the Mediterranean coast. Perfect for every occasion.</desc>
-    <date>2026</date>
-    <category lang="en">Special Interest</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729183000 +0800" stop="20260729193000 +0800" channel="TVSN.au">
-    <title lang="en">Amanda Charles Knitwear</title>
-    <sub-title lang="en">Thursday 30 July 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729193000 +0800" stop="20260729203000 +0800" channel="TVSN.au">
-    <title lang="en">Silk Oil of Morocco Beauty</title>
-    <sub-title lang="en">Thursday 30 July 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729203000 +0800" stop="20260729213000 +0800" channel="TVSN.au">
-    <title lang="en">Bissell WE MEAN CLEAN</title>
-    <sub-title lang="en">Thursday 30 July 2026</sub-title>
-    <desc lang="en">Conquer Every Clean. Deep clean all floors and carpets.  BISSELL's powerful vacuums and deep-penetrating brushes tackle any mess. Explore the range here at TVSN.</desc>
-    <date>2026</date>
-    <category lang="en">Special Interest</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/bk0at.jpg" />
-    <country lang="en">Australia</country>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729213000 +0800" stop="20260729223000 +0800" channel="TVSN.au">
-    <title lang="en">The Morning Edit</title>
-    <sub-title lang="en">Thursday 30 July 2026,</sub-title>
-    <desc lang="en">Kick off your mornings with TVSN. Watch as we showcase hot products with special sneak peeks and lively competitions. Catch vibrant and engaging mornings with us here at TVSN!</desc>
-    <date>2026</date>
-    <category lang="en">Special Interest</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <country lang="en">Australia</country>
-    <episode-num system="onscreen">E7</episode-num>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729223000 +0800" stop="20260729233000 +0800" channel="TVSN.au">
-    <title lang="en">The Morning Edit</title>
-    <sub-title lang="en">Thursday 30 July 2026,</sub-title>
-    <desc lang="en">Kick off your mornings with TVSN. Watch as we showcase hot products with special sneak peeks and lively competitions. Catch vibrant and engaging mornings with us here at TVSN!</desc>
-    <date>2026</date>
-    <category lang="en">Special Interest</category>
-    <category lang="en">Shopping</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <country lang="en">Australia</country>
-    <episode-num system="onscreen">E8</episode-num>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260729233000 +0800" stop="20260730003000 +0800" channel="TVSN.au">
-    <title lang="en">Silk Oil of Morocco Beauty</title>
-    <sub-title lang="en">Thursday 30 July 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20260730003000 +0800" stop="20260730013000 +0800" channel="TVSN.au">
     <title lang="en">Fitness with Fiona Summers</title>
     <sub-title lang="en">Thursday 30 July 2026</sub-title>
@@ -3056,174 +2812,6 @@
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">WION</display-name>
   </channel>
-  <programme channel="WION.in" start="20260730210000 +0530" stop="20260730213000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260730213000 +0530" stop="20260730220000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260730220000 +0530" stop="20260730223000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260730223000 +0530" stop="20260730230000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260730230000 +0530" stop="20260730233000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260730233000 +0530" stop="20260731000000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731000000 +0530" stop="20260731003000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731003000 +0530" stop="20260731010000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731010000 +0530" stop="20260731013000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731013000 +0530" stop="20260731020000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731020000 +0530" stop="20260731023000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731023000 +0530" stop="20260731030000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731030000 +0530" stop="20260731033000 +0530">
-    <title lang="en">Race To Power</title>
-    <desc lang="en">The host sheds light on the latest global news updates and developments pertaining to politics, economy and sociocultural affairs.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p25936778_b_h9_ac.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731033000 +0530" stop="20260731040000 +0530">
-    <title lang="en">WION Dispatch</title>
-    <desc lang="en">The host presents the latest political, social, sports and economic updates and speaks about the recent developments from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373714_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731040000 +0530" stop="20260731043000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731043000 +0530" stop="20260731050000 +0530">
-    <title lang="en">Wion Fineprint</title>
-    <desc lang="en">The host, a professional journalist, presents an in-depth analysis of international news and developments regarding social and economic issues.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373716_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731050000 +0530" stop="20260731053000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731053000 +0530" stop="20260731060000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731060000 +0530" stop="20260731063000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731063000 +0530" stop="20260731070000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731070000 +0530" stop="20260731073000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731073000 +0530" stop="20260731080000 +0530">
-    <title lang="en">World DNA</title>
-    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731080000 +0530" stop="20260731083000 +0530">
-    <title lang="en">World DNA</title>
-    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260731083000 +0530" stop="20260731090000 +0530">
-    <title lang="en">Speed News</title>
-    <desc lang="en">The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p21968651_b_h9_ab.jpg?lock=880x660" />
-  </programme>
   <programme channel="WION.in" start="20260731090000 +0530" stop="20260731093000 +0530">
     <title lang="en">Top Stories</title>
     <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
@@ -3399,144 +2987,180 @@
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
   </programme>
+  <programme channel="WION.in" start="20260731213000 +0530" stop="20260731220000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260731220000 +0530" stop="20260731223000 +0530">
+    <title lang="en">Wion Pulse</title>
+    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Variety Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260731223000 +0530" stop="20260731230000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260731230000 +0530" stop="20260731233000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260731233000 +0530" stop="20260801000000 +0530">
+    <title lang="en">Wion Pulse</title>
+    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Variety Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801000000 +0530" stop="20260801003000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801003000 +0530" stop="20260801010000 +0530">
+    <title lang="en">Wion Live Broadcast from USA</title>
+    <desc lang="en">The host presents the latest news updates and developments pertaining to significant social, political and economic events from the USA, live.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p20728114_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801010000 +0530" stop="20260801013000 +0530">
+    <title lang="en">Wion Pulse</title>
+    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Variety Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801013000 +0530" stop="20260801020000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801020000 +0530" stop="20260801023000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801023000 +0530" stop="20260801030000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801030000 +0530" stop="20260801033000 +0530">
+    <title lang="en">Race To Power</title>
+    <desc lang="en">The host sheds light on the latest global news updates and developments pertaining to politics, economy and sociocultural affairs.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p25936778_b_h9_ac.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801033000 +0530" stop="20260801040000 +0530">
+    <title lang="en">WION Dispatch</title>
+    <desc lang="en">The host presents the latest political, social, sports and economic updates and speaks about the recent developments from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373714_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801040000 +0530" stop="20260801043000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801043000 +0530" stop="20260801050000 +0530">
+    <title lang="en">Wion Fineprint</title>
+    <desc lang="en">The host, a professional journalist, presents an in-depth analysis of international news and developments regarding social and economic issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373716_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801050000 +0530" stop="20260801053000 +0530">
+    <title lang="en">Wion Pulse</title>
+    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Variety Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801053000 +0530" stop="20260801060000 +0530">
+    <title lang="en">The West Asia Post</title>
+    <desc lang="en">The host presents an in-depth analysis of the latest updates about the political and socio-economic developments of West Asia.</desc>
+    <category lang="en">News</category>
+    <category lang="en">Magazine Programme</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18872767_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801060000 +0530" stop="20260801063000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801063000 +0530" stop="20260801070000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801070000 +0530" stop="20260801073000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801073000 +0530" stop="20260801080000 +0530">
+    <title lang="en">World DNA</title>
+    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801080000 +0530" stop="20260801083000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801083000 +0530" stop="20260801090000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20260801090000 +0530" stop="20260801093000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
   <channel id="Rialto.nz">
     <display-name lang="en">Rialto</display-name>
     <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1PCTiXshgnq3uzQ6iNy4bI/d508329c01275f2a44184be0cccf046b/Rialto.png" />
     <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1PCTiXshgnq3uzQ6iNy4bI/d508329c01275f2a44184be0cccf046b/Rialto.png" />
     <url>http://www.sky.co.nz</url>
   </channel>
-  <programme start="20260730015500 +0000" stop="20260730033000 +0000" channel="Rialto.nz">
-    <title lang="en">Chasing The Gold</title>
-    <desc lang="en">The gold medal in Australia's most grueling ironman competition is up for grabs, as younger competitors threaten to dethrone the reigning champion. 2025. Australia. Director: Wes Greene.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260730033000 +0000" stop="20260730051500 +0000" channel="Rialto.nz">
-    <title lang="en">Infernal Affairs II</title>
-    <desc lang="en">In this prequel, a policeman sets out to infiltrate the Triad gangs. 2003. Hong Kong, Singapore. Directors: Wai Keung Lau, Alan Mak. Starring: Edison Chen, Shawn Yue.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260730051500 +0000" stop="20260730064000 +0000" channel="Rialto.nz">
-    <title lang="en">The Blind Couple From Mali</title>
-    <desc lang="en">Blind from a young age, don't just watch, but listen to the story of two blind musicians from Mali as they enter the music industry. 2025. Canada. Director: Ryan Marley.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260730064000 +0000" stop="20260730070000 +0000" channel="Rialto.nz">
-    <title lang="en">Medicine</title>
-    <desc lang="en">Two backpackers in India offer to nurse a baby while the Grandmother steps off the bus, but the bus keeps moving . 2023. NZ. Director: William McKegg. Starring: George Mason, Phoenix Connolly.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260730070000 +0000" stop="20260730083000 +0000" channel="Rialto.nz">
-    <title lang="en">Universal Language</title>
-    <desc lang="en">Somewhere between Tehran and Winnipeg, seemingly unconnected lives intertwine in a symphony of quirk. 2024. Canada. Director: Matthew Rankin. Starring: Matthew Rankin, Pirouz Nemati.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260730083000 +0000" stop="20260730103000 +0000" channel="Rialto.nz">
-    <title lang="en">The Cats Of Gokogu Shrine</title>
-    <desc lang="en">A cat colony inhabits a Shinto shrine in Japan, their presence is disputed by many. Filmmaker Kazuhiro Soda documents their coexistence. 2024. Japan. Director: Kazuhiro Soda.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260730103000 +0000" stop="20260730121000 +0000" channel="Rialto.nz">
-    <title lang="en">A Man And A Woman</title>
-    <desc lang="en">A Widow and a Widowers' friendship blooms into romance, but can they overcome their tragic pasts. 1966. France. Director: Claude Lelouch. Starring: Anouk Aimee, Jean-Louis Trintignant.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260730121000 +0000" stop="20260730141000 +0000" channel="Rialto.nz">
-    <title lang="en">Infernal Affairs III</title>
-    <desc lang="en">Yeung's behaviour reminds Ming of his own infamous rise to fame. 2003. Hong Kong, China. Directors: Wai Keung Lau, Alan Mak. Starring: Andy Lau, Tony Leung Chiu-wai.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260730141000 +0000" stop="20260730150500 +0000" channel="Rialto.nz">
-    <title lang="en">The Black Swan</title>
-    <desc lang="en">1/4. Tensions reach new heights as Amira gets caught up in a heated conflict between two MC gangs that takes place in her office. 2024. Denmark. Director: Mads Brugger.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>18</value>
-    </rating>
-  </programme>
-  <programme start="20260730150500 +0000" stop="20260730164500 +0000" channel="Rialto.nz">
-    <title lang="en">William Shatner: You Can Call Me Bill</title>
-    <desc lang="en">Lift the veil on William Shatner's countless characters embodied over his 90 years on earth. 2023. USA. Directors: Alexandre O. Philippe.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260730164500 +0000" stop="20260730174000 +0000" channel="Rialto.nz">
-    <title lang="en">Total Control</title>
-    <desc lang="en">3/1. Since Paul Murphy was anointed as Prime Minister, the government has weathered a global pandemic. 2024. Australia. Director: Wayne Blair. Starring: Rachel Griffiths, Deborah Mailman.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20260730174000 +0000" stop="20260730183500 +0000" channel="Rialto.nz">
-    <title lang="en">Total Control</title>
-    <desc lang="en">3/2. Alex receives a health diagnosis which threatens to derail her political ambitions. 2024. Australia. Director: Wayne Blair. Starring: Rachel Griffiths, Deborah Mailman.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260730183500 +0000" stop="20260730193000 +0000" channel="Rialto.nz">
-    <title lang="en">Total Control</title>
-    <desc lang="en">3/3. At a Parliamentary event, Rachel gathers the numbers for her alliance. 2024. Australia. Director: Jub Clerc. Starring: Rachel Griffiths, Deborah Mailman.</desc>
-    <category lang="en">Show</category>
-    <category lang="en">Series</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260730193000 +0000" stop="20260730205500 +0000" channel="Rialto.nz">
-    <title lang="en">The Blind Couple From Mali</title>
-    <desc lang="en">Blind from a young age, don't just watch, but listen to the story of two blind musicians from Mali as they enter the music industry. 2025. Canada. Director: Ryan Marley.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260730205500 +0000" stop="20260730222500 +0000" channel="Rialto.nz">
-    <title lang="en">Universal Language</title>
-    <desc lang="en">Somewhere between Tehran and Winnipeg, seemingly unconnected lives intertwine in a symphony of quirk. 2024. Canada. Director: Matthew Rankin. Starring: Matthew Rankin, Pirouz Nemati.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260730222500 +0000" stop="20260731002500 +0000" channel="Rialto.nz">
-    <title lang="en">The Cats Of Gokogu Shrine</title>
-    <desc lang="en">A cat colony inhabits a Shinto shrine in Japan, their presence is disputed by many. Filmmaker Kazuhiro Soda documents their coexistence. 2024. Japan. Director: Kazuhiro Soda.</desc>
-    <category lang="en">Movie</category>
-    <rating system="NZ">
-      <value>G</value>
-    </rating>
-  </programme>
   <programme start="20260731002500 +0000" stop="20260731022500 +0000" channel="Rialto.nz">
     <title lang="en">Infernal Affairs III</title>
     <desc lang="en">Yeung's behaviour reminds Ming of his own infamous rise to fame. 2003. Hong Kong, China. Directors: Wai Keung Lau, Alan Mak. Starring: Andy Lau, Tony Leung Chiu-wai.</desc>
@@ -3832,7 +3456,7 @@
     </rating>
   </programme>
   <programme start="20260802083000 +0000" stop="20260802094500 +0000" channel="Rialto.nz">
-    <title lang="en">Becoming Hitchcock: The Legacy Of.</title>
+    <title lang="en">Becoming Hitchcock: The Legacy Of…</title>
     <desc lang="en">Blackmail. Exploring Hitchcock's style through his early film Blackmail, an insight into the director's techniques and themes. 2024. France. Director: Laurent Bouzereau.</desc>
     <category lang="en">Movie</category>
     <rating system="NZ">
@@ -3850,6 +3474,139 @@
   <programme start="20260802120000 +0000" stop="20260802134000 +0000" channel="Rialto.nz">
     <title lang="en">Flavors Of Iraq</title>
     <desc lang="en">A French-Iraqi journalist reflects on his father's journey from Iraq to France following his passing . 2024. France, Belgium. Director: Leonard Cohen.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260802134000 +0000" stop="20260802144000 +0000" channel="Rialto.nz">
+    <title lang="en">This Is Not A Murder Mystery</title>
+    <desc lang="en">1/3. Guests stage a send-off for the victim, Scotland Yard find motive. 2025. Belgium. Directors: Hans Herbots, Matthias Lebeer. Starring: Pierre Gervais, Stephen Tompkinson.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260802144000 +0000" stop="20260802153500 +0000" channel="Rialto.nz">
+    <title lang="en">This Is Not A Murder Mystery</title>
+    <desc lang="en">1/4. New guests arrive, bringing no manners and more stress. 2025. Belgium. Directors: Hans Herbots, Matthias Lebeer. Starring: Pierre Gervais, Stephen Tompkinson.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260802153500 +0000" stop="20260802171500 +0000" channel="Rialto.nz">
+    <title lang="en">Queens</title>
+    <desc lang="en">An estranged father's re-enters the picture as a mother and three daughtersflee political tensions in Lima. 2024. Peru. Director: Klaudia Reynicke. Starring: Abril Gjurinovic, Luana Vega.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260802171500 +0000" stop="20260802180000 +0000" channel="Rialto.nz">
+    <title lang="en">Vaka</title>
+    <desc lang="en">1/1. An epidemic of insomnia spreads across Stockholm, and difficult choices must be made. 2025. United States, Iceland. Director: Henrik Georgsson. Starring: Jonas Karlsson, Aliette Opheim.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260802180000 +0000" stop="20260802184500 +0000" channel="Rialto.nz">
+    <title lang="en">Vaka</title>
+    <desc lang="en">1/2. A new disaster forces Christian to act, and Moa's outburst has serious consequences. 2025. United States, Iceland. Director: Henrik Georgsson. Starring: Jonas Karlsson, Aliette Opheim.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260802184500 +0000" stop="20260802210000 +0000" channel="Rialto.nz">
+    <title lang="en">Orphan</title>
+    <desc lang="en">A young boy, raised by his mother, has his world shattered when a brutish man claims to be his real father. 2025. Hungary, UK. Director: Laszlo Nemes. Starring: Bojtorjan Barabas, Andrea Waskovics.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260802210000 +0000" stop="20260802224500 +0000" channel="Rialto.nz">
+    <title lang="en">Meet The Buchanans</title>
+    <desc lang="en">Enthusiasts from around the world join the Clan Buchanan for the inauguration of their new chief, Mike Buchanan. 2025. UK. Directors: Jack Cocker, Darren Hercher, Barbara Orton.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260802224500 +0000" stop="20260803002500 +0000" channel="Rialto.nz">
+    <title lang="en">Tarrac</title>
+    <desc lang="en">After her father suffers a heart attack, a woman finds solace after returning home to Ireland's southwest coast. 2022. Ireland. Director: Declan Recks. Starring: Kelly Gough, Lorcan Cranitch.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260803002500 +0000" stop="20260803014000 +0000" channel="Rialto.nz">
+    <title lang="en">Becoming Hitchcock: The Legacy Of…</title>
+    <desc lang="en">Blackmail. Exploring Hitchcock's style through his early film Blackmail, an insight into the director's techniques and themes. 2024. France. Director: Laurent Bouzereau.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260803014000 +0000" stop="20260803032000 +0000" channel="Rialto.nz">
+    <title lang="en">Flavors Of Iraq</title>
+    <desc lang="en">A French-Iraqi journalist reflects on his father's journey from Iraq to France following his passing . 2024. France, Belgium. Director: Leonard Cohen.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260803032000 +0000" stop="20260803051000 +0000" channel="Rialto.nz">
+    <title lang="en">Meet The Buchanans</title>
+    <desc lang="en">Enthusiasts from around the world join the Clan Buchanan for the inauguration of their new chief, Mike Buchanan. 2025. UK. Directors: Jack Cocker, Darren Hercher, Barbara Orton.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260803051000 +0000" stop="20260803065000 +0000" channel="Rialto.nz">
+    <title lang="en">Stolen Kisses</title>
+    <desc lang="en">After being discharged from his military service, Antoine struggles with work as well as with love. 1968. France. Director: Francois Truffaut. Starring: Jean-Pierre Leaud, Claude Jade.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260803065000 +0000" stop="20260803083000 +0000" channel="Rialto.nz">
+    <title lang="en">The Umbrellas Of Cherbourg</title>
+    <desc lang="en">Genevieve and Guy's romance comes to an abrupt stop when Guy is drafted into the War. 1964. France. Director: Jacques Demy. Starring: Catherine Deneuve, Nino Castelnuovo.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20260803083000 +0000" stop="20260803101000 +0000" channel="Rialto.nz">
+    <title lang="en">This Life Of Mine</title>
+    <desc lang="en">A sharply funny, and deeply resonant take on a woman navigating the chaos of family, work, and aging. 2024. France. Director: Sophie Fillieres. Starring: Agnes Jaoui, Angelina Woreth.</desc>
+    <category lang="en">Movie</category>
+    <rating system="NZ">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20260803101000 +0000" stop="20260803110500 +0000" channel="Rialto.nz">
+    <title lang="en">Carmen Curlers</title>
+    <desc lang="en">1/2. Axel signs up for the largest beauty fair in Copenhagen to demonstrate his curlers. 2023. Denmark. Director: Natasha Arthy. Starring: Morten Hee Andersen, Maria Rossing.</desc>
+    <category lang="en">Show</category>
+    <category lang="en">Series</category>
+    <rating system="NZ">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20260803110500 +0000" stop="20260803130000 +0000" channel="Rialto.nz">
+    <title lang="en">Rosalie</title>
+    <desc lang="en">The life story of Rosalie, the star of the world's first bearded lady attraction. 2023. France. Director: Stephanie Di Giusto. Starring: Nadia Tereszkiewicz, Benoit Magimel.</desc>
     <category lang="en">Movie</category>
     <rating system="NZ">
       <value>M</value>
