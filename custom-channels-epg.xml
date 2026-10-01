@@ -24,130 +24,58 @@
     <icon src="https://www.foxtel.com.au/content/dam/foxtel/shared/channel/RTV/RTD_425x243.png" />
     <url>http://www.foxtel.com</url>
   </channel>
-  <programme start="20260929003000 +0000" stop="20260929013000 +0000" channel="TVSN.au">
-    <title lang="en">SALE!</title>
-    <sub-title lang="en">Tuesday 29 September 2026,</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/5402600883303104137_169.jpeg" />
-    <episode-num system="onscreen">E9</episode-num>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260929013000 +0000" stop="20260929023000 +0000" channel="TVSN.au">
-    <title lang="en">SALE!</title>
-    <sub-title lang="en">Tuesday 29 September 2026,</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/5402600883303104137_169.jpeg" />
-    <episode-num system="onscreen">E11</episode-num>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260929023000 +0000" stop="20260929033000 +0000" channel="TVSN.au">
-    <title lang="en">SALE!</title>
-    <sub-title lang="en">Tuesday 29 September 2026,</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/5402600883303104137_169.jpeg" />
-    <episode-num system="onscreen">E12</episode-num>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260929033000 +0000" stop="20260929043000 +0000" channel="TVSN.au">
-    <title lang="en">SALE!</title>
-    <sub-title lang="en">Tuesday 29 September 2026,</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/5402600883303104137_169.jpeg" />
-    <episode-num system="onscreen">E13</episode-num>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260929043000 +0000" stop="20260929053000 +0000" channel="TVSN.au">
-    <title lang="en">SALE!</title>
-    <sub-title lang="en">Tuesday 29 September 2026,</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/5402600883303104137_169.jpeg" />
-    <episode-num system="onscreen">E14</episode-num>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260929053000 +0000" stop="20260929063000 +0000" channel="TVSN.au">
-    <title lang="en">SALE!</title>
-    <sub-title lang="en">Tuesday 29 September 2026,</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/5402600883303104137_169.jpeg" />
-    <episode-num system="onscreen">E15</episode-num>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260929063000 +0000" stop="20260929073000 +0000" channel="TVSN.au">
-    <title lang="en">SALE!</title>
-    <sub-title lang="en">Tuesday 29 September 2026,</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/5402600883303104137_169.jpeg" />
-    <episode-num system="onscreen">E16</episode-num>
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260929073000 +0000" stop="20260929083000 +0000" channel="TVSN.au">
-    <title lang="en">SALE! Kitchen</title>
-    <sub-title lang="en">Tuesday 29 September 2026</sub-title>
+  <programme start="20260930073000 +0000" stop="20260930083000 +0000" channel="TVSN.au">
+    <title lang="en">SALE! Electrical &amp; Cleaning</title>
+    <sub-title lang="en">Wednesday 30 September 2026</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
     <rating system="AU">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260929083000 +0000" stop="20260929093000 +0000" channel="TVSN.au">
+  <programme start="20260930083000 +0000" stop="20260930093000 +0000" channel="TVSN.au">
+    <title lang="en">SALE! Jewellery</title>
+    <sub-title lang="en">Wednesday 30 September 2026</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
+    <rating system="AU">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20260930093000 +0000" stop="20260930103000 +0000" channel="TVSN.au">
     <title lang="en">SALE! Fashion</title>
-    <sub-title lang="en">Tuesday 29 September 2026</sub-title>
+    <sub-title lang="en">Wednesday 30 September 2026</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
     <rating system="AU">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260929093000 +0000" stop="20260929103000 +0000" channel="TVSN.au">
-    <title lang="en">SALE! Gems &amp; Gold</title>
-    <sub-title lang="en">Tuesday 29 September 2026</sub-title>
+  <programme start="20260930103000 +0000" stop="20260930113000 +0000" channel="TVSN.au">
+    <title lang="en">SALE! Nikon</title>
+    <sub-title lang="en">Wednesday 30 September 2026</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
     <rating system="AU">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260929103000 +0000" stop="20260929113000 +0000" channel="TVSN.au">
-    <title lang="en">SALE! Gekogear</title>
-    <sub-title lang="en">Tuesday 29 September 2026</sub-title>
+  <programme start="20260930113000 +0000" stop="20260930123000 +0000" channel="TVSN.au">
+    <title lang="en">SALE! Rhonda Shear</title>
+    <sub-title lang="en">Wednesday 30 September 2026</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
     <rating system="AU">
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260929113000 +0000" stop="20260929123000 +0000" channel="TVSN.au">
-    <title lang="en">SALE! Silver &amp; Pearls</title>
-    <sub-title lang="en">Tuesday 29 September 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929133000 +0000" channel="TVSN.au">
-    <title lang="en">SALE! Fashion</title>
-    <sub-title lang="en">Tuesday 29 September 2026</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
-    <rating system="AU">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260929133000 +0000" stop="20260930133000 +0000" channel="TVSN.au">
-    <title lang="en">SALE! Beauty</title>
-    <sub-title lang="en">Tuesday 29 September 2026</sub-title>
+  <programme start="20260930123000 +0000" stop="20260930133000 +0000" channel="TVSN.au">
+    <title lang="en">SALE! Homewares</title>
+    <sub-title lang="en">Wednesday 30 September 2026</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
     <rating system="AU">
       <value>G</value>
     </rating>
   </programme>
   <programme start="20260930133000 +0000" stop="20260930143000 +0000" channel="TVSN.au">
-    <title lang="en">SALE!</title>
-    <sub-title lang="en">Wednesday 30 September 2026,</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/5402600883303104137_169.jpeg" />
-    <episode-num system="onscreen">E23</episode-num>
+    <title lang="en">SALE! Skincare</title>
+    <sub-title lang="en">Wednesday 30 September 2026</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/b7sxh.jpg" />
     <rating system="AU">
       <value>G</value>
     </rating>
@@ -774,111 +702,6 @@
       <value>G</value>
     </rating>
   </programme>
-  <programme start="20260929000000 +0000" stop="20260929020000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Sky Racing 1 Race Morning</title>
-    <sub-title lang="en">Sky Racing 1 Race Morning</sub-title>
-    <desc lang="en">Greyhound Racing from Angle Park.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/10721217088991686605_169.jpeg" />
-    <episode-num system="onscreen">S26 E272</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929020000 +0000" stop="20260929080000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Sky Racing 1 Race Day</title>
-    <sub-title lang="en">Sky Racing 1 Race Day</sub-title>
-    <desc lang="en">Thoroughbreds from Grafton, Tatura, Horseshoe Indianapolis, Gavea; Greyhound Racing from Geelong, Horsham, Q1 Lakeside, Angle Park, Hobart; Harness Racing from Menangle, Young, Shepparton, Albion Park.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/akuxj.jpg" />
-    <episode-num system="onscreen">S26 E272</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929080000 +0000" stop="20260929120000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Sky Racing 1 Race Night</title>
-    <sub-title lang="en">Sky Racing 1 Race Night</sub-title>
-    <desc lang="en">Thoroughbreds from Marseille Borely, Chantilly; Greyhound Racing from Gosford, Wagga, Geelong, Geelong Extra, Horsham, Horsham Extra, Warragul, Q1 Lakeside, Q1 Lakeside Extra, Townsville, Mandurah, Darwin, Newcastle.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/9phyh.jpg" />
-    <episode-num system="onscreen">S26 E272</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929120000 +0000" stop="20260929140000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Sky Racing 1 Late Night</title>
-    <sub-title lang="en">Sky Racing 1 Late Night</sub-title>
-    <desc lang="en">Thoroughbreds from Bath, Ayr, Sedgefield, Cork, Marseille Borely, Chantilly; Greyhound Racing from Gosford, Wagga, Warragul, Townsville, Mandurah, Townsville Extra, Darwin, Newcastle, Romford, Monmore, Valley.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6hzmc.jpg" />
-    <episode-num system="onscreen">S26 E272</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929140000 +0000" stop="20260929190000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Sky Racing 1 Late Night</title>
-    <sub-title lang="en">Sky Racing 1 Late Night</sub-title>
-    <desc lang="en">Thoroughbreds from Kocaeli, Bath, Ayr, Sedgefield, Cork, Wolverhampton, Chantilly; Greyhound Racing from Romford, Monmore, Central Park, Sunderland, Valley, Star Pelaw.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/6hzmc.jpg" />
-    <episode-num system="onscreen">S26 E272</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929190000 +0000" stop="20260929220000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Sky Racing 1 Early Morning</title>
-    <sub-title lang="en">Sky Racing 1 Early Morning</sub-title>
-    <desc lang="en">Thoroughbreds from Horseshoe Indianapolis, Gavea.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/10721217088991686605_169.jpeg" />
-    <episode-num system="onscreen">S26 E273</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929220000 +0000" stop="20260929230000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Sky Racing 1 Race Morning</title>
-    <sub-title lang="en">Sky Racing 1 Race Morning</sub-title>
-    <desc lang="en">Thoroughbreds from Cambridge; Greyhound Racing from Sale, Capalaba, Murray Bridge Straight.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/10721217088991686605_169.jpeg" />
-    <episode-num system="onscreen">S26 E273</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929230000 +0000" stop="20260930000000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Live: Racing Xtra</title>
-    <sub-title lang="en">Racing Xtra</sub-title>
-    <desc lang="en">Lewis Willoughby and Nick Berney break down racing and sport each weekday with the latest odds, moves and betting insights.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/12887732461173789685_169.jpeg" />
-    <country lang="en">Australia</country>
-    <episode-num system="onscreen">S26 E273</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
   <programme start="20260930000000 +0000" stop="20260930020000 +0000" channel="SkyRacing1.au">
     <title lang="en">Live: Sky Racing 1 Race Morning</title>
     <sub-title lang="en">Sky Racing 1 Race Morning</sub-title>
@@ -1146,9 +969,9 @@
     </rating>
   </programme>
   <programme start="20261002220000 +0000" stop="20261002230000 +0000" channel="SkyRacing1.au">
-    <title lang="en">Formline</title>
-    <sub-title lang="en">Formline</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/bfi5c.png" />
+    <title lang="en">Formline Encore</title>
+    <sub-title lang="en">Formline Encore</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/99gwu.png" />
     <episode-num system="onscreen">S26 E30</episode-num>
     <rating system="AU">
       <value>PG</value>
@@ -1186,71 +1009,6 @@
     <sub-title lang="en">Sky Racing 1 Race Night</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/9phyh.jpg" />
     <episode-num system="onscreen">S26 E276</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929020000 +0000" stop="20260929080000 +0000" channel="SkyRacing2.au">
-    <title lang="en">Live: Sky Racing 2 Race Day</title>
-    <sub-title lang="en">Sky Racing 2 Race Day</sub-title>
-    <desc lang="en">Thoroughbreds from Funabashi, Nagoya; Greyhound Racing from Bulli, Horsham, Q1 Lakeside; Harness Racing from Yonkers, Mohawk.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/ampky.jpg" />
-    <episode-num system="onscreen">S26 E272</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929080000 +0000" stop="20260929140000 +0000" channel="SkyRacing2.au">
-    <title lang="en">Live: Sky Racing 2 Race Night</title>
-    <sub-title lang="en">Sky Racing 2 Race Night</sub-title>
-    <desc lang="en">Thoroughbreds from Adana, Funabashi, Nagoya, Sedgefield, Cork, Marseille Borely, Chantilly; Greyhound Racing from Bulli, Horsham, Q1 Lakeside, Q1 Lakeside Extra, Mandurah, Darwin, Sheffield, Newcastle, Romford, Monmore, Tralee, Valley.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/8jo3x.jpg" />
-    <episode-num system="onscreen">S26 E272</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929140000 +0000" stop="20260929190000 +0000" channel="SkyRacing2.au">
-    <title lang="en">Live: Sky Racing 2 Late Night</title>
-    <sub-title lang="en">Sky Racing 2 Late Night</sub-title>
-    <desc lang="en">Thoroughbreds from Thistledown, Horseshoe Indianapolis Extra, Finger Lakes, Adana, Kocaeli, Sedgefield, Cork, Chantilly; Greyhound Racing from Romford, Monmore, Central Park, Sunderland, Valley, Star Pelaw; Harness Racing from Vincennes.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/10991566399049188253_169.jpeg" />
-    <episode-num system="onscreen">S26 E272</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929190000 +0000" stop="20260929220000 +0000" channel="SkyRacing2.au">
-    <title lang="en">Live: Sky Racing 2 Early Morning</title>
-    <sub-title lang="en">Sky Racing 2 Early Morning</sub-title>
-    <desc lang="en">Harness Racing from Hoosier Park.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/10419476203851378653_169.jpeg" />
-    <episode-num system="onscreen">S26 E273</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929220000 +0000" stop="20260930020000 +0000" channel="SkyRacing2.au">
-    <title lang="en">Live: Sky Racing 2 Race Morning</title>
-    <sub-title lang="en">Sky Racing 2 Race Morning</sub-title>
-    <desc lang="en">Thoroughbreds from Cambridge, Assiniboia Downs; Greyhound Racing from Capalaba, Murray Bridge Straight; Harness Racing from Yonkers.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/10419476203851378653_169.jpeg" />
-    <episode-num system="onscreen">S26 E273</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
@@ -1459,304 +1217,6 @@
     <sub-title lang="en">Sky Racing 2 Race Night</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/8jo3x.jpg" />
     <episode-num system="onscreen">S26 E276</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929013000 +0000" stop="20260929020000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Tamworth</title>
-    <sub-title lang="en">Tamworth</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/b4fht.jpg" />
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929020000 +0000" stop="20260929023000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Wagga</title>
-    <sub-title lang="en">Wagga</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/b4fht.jpg" />
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929023000 +0000" stop="20260929030000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Live: Thoroughbred Preview Live</title>
-    <sub-title lang="en">Thoroughbred Preview Live</sub-title>
-    <desc lang="en">The most comprehensive form guide for today's racing, stay up to date with expert tips, exclusive ratings, strike rates and 'black book' specials.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/12012362771186593353_169.jpeg" />
-    <episode-num system="onscreen">S26 E272</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929030000 +0000" stop="20260929070000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Live: Sky Thoroughbred Central Race Day</title>
-    <sub-title lang="en">Sky Thoroughbred Central Race Day</sub-title>
-    <desc lang="en">Thoroughbreds from Grafton.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/2/9l7j3.jpg" />
-    <episode-num system="onscreen">S26 E272</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929070000 +0000" stop="20260929073000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Live: Formline Extra Live</title>
-    <sub-title lang="en">Formline Extra Live</sub-title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S26 E272</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929073000 +0000" stop="20260929080000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Hawkesbury Trials Encore</title>
-    <sub-title lang="en">Hawkesbury Trials Encore</sub-title>
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929080000 +0000" stop="20260929083000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Deagon Trials Encore</title>
-    <sub-title lang="en">Deagon Trials Encore</sub-title>
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929083000 +0000" stop="20260929090000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Grafton</title>
-    <sub-title lang="en">Grafton</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/b4fht.jpg" />
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929090000 +0000" stop="20260929093000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Punter's Intelligence</title>
-    <sub-title lang="en">Punter's Intelligence</sub-title>
-    <desc lang="en">Ben Way and Brad Gray use the Punter's Intelligence app to crunch the key statistical data from the past week of racing and help you find a future winner.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S26 E27</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929093000 +0000" stop="20260929103000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Everest Carnival HQ</title>
-    <sub-title lang="en">Everest Carnival HQ</sub-title>
-    <desc lang="en">Sky Thoroughbred Central's premium weekly racing program dedicated to the horses, people, performances and stories shaping Australia's biggest race carnivals..</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S26 E2</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929103000 +0000" stop="20260929110000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">It's Gold</title>
-    <sub-title lang="en">It's Gold</sub-title>
-    <desc lang="en">Beyond the glamour &amp; past the finish line lies the real heart of racing, where every story is worth it's weight in gold. Hosted by Julie Snook. It's Gold looks at the people behind Australia's racing industry - the trainers, owners, jock...</desc>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <episode-num system="onscreen">S26 E3</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929110000 +0000" stop="20260929113000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Formline Extra Encore</title>
-    <sub-title lang="en">Formline Extra Encore</sub-title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/16585792963325255377_169.jpeg" />
-    <episode-num system="onscreen">S26 E272</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929113000 +0000" stop="20260929120000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Hawkesbury Trials Encore</title>
-    <sub-title lang="en">Hawkesbury Trials Encore</sub-title>
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929120000 +0000" stop="20260929123000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Deagon Trials Encore</title>
-    <sub-title lang="en">Deagon Trials Encore</sub-title>
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929123000 +0000" stop="20260929130000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Grafton</title>
-    <sub-title lang="en">Grafton</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/b4fht.jpg" />
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929130000 +0000" stop="20260929133000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Punter's Intelligence Encore</title>
-    <sub-title lang="en">Punter's Intelligence Encore</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/7oveu.png" />
-    <episode-num system="onscreen">S26 E27</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929133000 +0000" stop="20260929143000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Everest Carnival HQ Encore</title>
-    <sub-title lang="en">Everest Carnival HQ Encore</sub-title>
-    <episode-num system="onscreen">S26 E2</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929143000 +0000" stop="20260929150000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">It's Gold Encore</title>
-    <sub-title lang="en">It's Gold Encore</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/10915435793308388010_169.jpeg" />
-    <episode-num system="onscreen">S26 E3</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929150000 +0000" stop="20260929153000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Formline Extra Encore</title>
-    <sub-title lang="en">Formline Extra Encore</sub-title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/16585792963325255377_169.jpeg" />
-    <episode-num system="onscreen">S26 E272</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929153000 +0000" stop="20260929160000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Hawkesbury Trials Encore</title>
-    <sub-title lang="en">Hawkesbury Trials Encore</sub-title>
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929160000 +0000" stop="20260929163000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Deagon Trials Encore</title>
-    <sub-title lang="en">Deagon Trials Encore</sub-title>
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929163000 +0000" stop="20260929190000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Luck On Sunday</title>
-    <sub-title lang="en">Luck On Sunday</sub-title>
-    <episode-num system="onscreen">S26 E34</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929190000 +0000" stop="20260929193000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Grafton</title>
-    <sub-title lang="en">Grafton</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/b4fht.jpg" />
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929193000 +0000" stop="20260929200000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Hawkesbury Trials Encore</title>
-    <sub-title lang="en">Hawkesbury Trials Encore</sub-title>
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929200000 +0000" stop="20260929203000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Punter's Intelligence Encore</title>
-    <sub-title lang="en">Punter's Intelligence Encore</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/7oveu.png" />
-    <episode-num system="onscreen">S26 E27</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929203000 +0000" stop="20260929210000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Formline Extra Encore</title>
-    <sub-title lang="en">Formline Extra Encore</sub-title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/16585792963325255377_169.jpeg" />
-    <episode-num system="onscreen">S26 E272</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929210000 +0000" stop="20260929220000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Everest Carnival HQ Encore</title>
-    <sub-title lang="en">Everest Carnival HQ Encore</sub-title>
-    <episode-num system="onscreen">S26 E2</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929220000 +0000" stop="20260929223000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Bred To Win</title>
-    <sub-title lang="en">Bred To Win</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/6da47.png" />
-    <episode-num system="onscreen">S26 E13</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929223000 +0000" stop="20260929230000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">It's Gold Encore</title>
-    <sub-title lang="en">It's Gold Encore</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/10915435793308388010_169.jpeg" />
-    <episode-num system="onscreen">S26 E3</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929230000 +0000" stop="20260929233000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay: Grafton</title>
-    <sub-title lang="en">Grafton</sub-title>
-    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/1/b4fht.jpg" />
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20260929233000 +0000" stop="20260930000000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Deagon Trials Encore</title>
-    <sub-title lang="en">Deagon Trials Encore</sub-title>
-    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
@@ -2103,23 +1563,19 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261001020000 +0000" stop="20261001030000 +0000" channel="SkyThoroughbredCentral.au">
+  <programme start="20261001020000 +0000" stop="20261001033000 +0000" channel="SkyThoroughbredCentral.au">
     <title lang="en">Live: Thoroughbred Preview Live</title>
     <sub-title lang="en">Thoroughbred Preview Live</sub-title>
-    <desc lang="en">The most comprehensive form guide for today's racing, stay up to date with expert tips, exclusive ratings, strike rates and 'black book' specials.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/12012362771186593353_169.jpeg" />
     <episode-num system="onscreen">S26 E274</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261001030000 +0000" stop="20261001073000 +0000" channel="SkyThoroughbredCentral.au">
+  <programme start="20261001033000 +0000" stop="20261001073500 +0000" channel="SkyThoroughbredCentral.au">
     <title lang="en">Live: Sky Thoroughbred Central Race Day</title>
     <sub-title lang="en">Sky Thoroughbred Central Race Day</sub-title>
-    <desc lang="en">Thoroughbreds from Gatton, Illawarra Grange.</desc>
+    <desc lang="en">Thoroughbreds from Tamworth, Gatton, Illawarra Grange.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
@@ -2128,26 +1584,32 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261001073000 +0000" stop="20261001080000 +0000" channel="SkyThoroughbredCentral.au">
+  <programme start="20261001073500 +0000" stop="20261001080000 +0000" channel="SkyThoroughbredCentral.au">
     <title lang="en">Live: Formline Extra Live</title>
     <sub-title lang="en">Formline Extra Live</sub-title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <category lang="en">Racing</category>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/7407457200310597361_169.jpeg" />
     <episode-num system="onscreen">S26 E274</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261001080000 +0000" stop="20261001090000 +0000" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Live: Sky Thoroughbred Central Race Day</title>
-    <sub-title lang="en">Sky Thoroughbred Central Race Night</sub-title>
-    <desc lang="en">Thoroughbreds from Sha Tin.</desc>
-    <date>2026</date>
+  <programme start="20261001080000 +0000" stop="20261001083000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Bred To Win</title>
+    <sub-title lang="en">Bred To Win</sub-title>
+    <desc lang="en">Caroline Searcy reviews Group 1 Spring racing and visits Zoustar's Espionage at Lovatsville. Horse of the Year Autumn Glow's star sire The Autumn Sun at Arrowfield Stud and a new Cambridge Stud \"Stud Dog.\".</desc>
     <category lang="en">Sport</category>
     <category lang="en">Racing</category>
-    <episode-num system="onscreen">S26 E274</episode-num>
+    <country lang="en">Australia</country>
+    <episode-num system="onscreen">S26 E13</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261001083000 +0000" stop="20261001090000 +0000" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Black Bookers Encore</title>
+    <sub-title lang="en">Black Bookers Encore</sub-title>
+    <icon src="https://images1.resources.foxtel.com.au/store2/mount1/16/3/84qxr.png" />
+    <episode-num system="onscreen">S26 E26</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
@@ -2675,7 +2137,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261003010000 +0000" stop="20261003020000 +0000" channel="SkyThoroughbredCentral.au">
+  <programme start="20261003010000 +0000" stop="20261003013000 +0000" channel="SkyThoroughbredCentral.au">
     <title lang="en">Live: Thoroughbred Preview Live</title>
     <sub-title lang="en">Thoroughbred Preview Live</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/12012362771186593353_169.jpeg" />
@@ -2684,7 +2146,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261003020000 +0000" stop="20261003073000 +0000" channel="SkyThoroughbredCentral.au">
+  <programme start="20261003013000 +0000" stop="20261003073500 +0000" channel="SkyThoroughbredCentral.au">
     <title lang="en">Live: Sky Thoroughbred Central Race Day</title>
     <sub-title lang="en">Sky Thoroughbred Central Race Day</sub-title>
     <desc lang="en">Thoroughbreds from Randwick, Newcastle, Eagle Farm.</desc>
@@ -2697,7 +2159,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261003073000 +0000" stop="20261003080000 +0000" channel="SkyThoroughbredCentral.au">
+  <programme start="20261003073500 +0000" stop="20261003080000 +0000" channel="SkyThoroughbredCentral.au">
     <title lang="en">Live: Formline Extra Live</title>
     <sub-title lang="en">Formline Extra Live</sub-title>
     <icon src="https://images1.resources.foxtel.com.au/store2/mount1/30/7407457200310597361_169.jpeg" />
@@ -2725,181 +2187,6 @@
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">WION</display-name>
   </channel>
-  <programme channel="WION.in" start="20260930210000 +0530" stop="20260930213000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260930213000 +0530" stop="20260930220000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260930220000 +0530" stop="20260930223000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260930223000 +0530" stop="20260930230000 +0530">
-    <title lang="en">Wion Fineprint</title>
-    <desc lang="en">The host, a professional journalist, presents an in-depth analysis of international news and developments regarding social and economic issues.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373716_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260930230000 +0530" stop="20260930233000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20260930233000 +0530" stop="20261001000000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001000000 +0530" stop="20261001003000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001003000 +0530" stop="20261001010000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001010000 +0530" stop="20261001013000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001013000 +0530" stop="20261001020000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001020000 +0530" stop="20261001023000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001023000 +0530" stop="20261001030000 +0530">
-    <title lang="en">WION Dispatch</title>
-    <desc lang="en">The host presents the latest political, social, sports and economic updates and speaks about the recent developments from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373714_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001030000 +0530" stop="20261001033000 +0530">
-    <title lang="en">Race To Power</title>
-    <desc lang="en">The host sheds light on the latest global news updates and developments pertaining to politics, economy and sociocultural affairs.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p25936778_b_h9_ac.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001033000 +0530" stop="20261001040000 +0530">
-    <title lang="en">Race To Power</title>
-    <desc lang="en">The host sheds light on the latest global news updates and developments pertaining to politics, economy and sociocultural affairs.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p25936778_b_h9_ac.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001040000 +0530" stop="20261001043000 +0530">
-    <title lang="en">Wion Defence Pulse</title>
-    <desc lang="en">The presenter provides an in-depth evaluation of global political and economic affairs. Key social stories from around the world are also examined during the broadcast.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p34022364_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001043000 +0530" stop="20261001050000 +0530">
-    <title lang="en">Wion Fineprint</title>
-    <desc lang="en">The host, a professional journalist, presents an in-depth analysis of international news and developments regarding social and economic issues.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373716_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001050000 +0530" stop="20261001053000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001053000 +0530" stop="20261001060000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001060000 +0530" stop="20261001063000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001063000 +0530" stop="20261001070000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001070000 +0530" stop="20261001073000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001073000 +0530" stop="20261001080000 +0530">
-    <title lang="en">World DNA</title>
-    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001080000 +0530" stop="20261001083000 +0530">
-    <title lang="en">World DNA</title>
-    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001083000 +0530" stop="20261001090000 +0530">
-    <title lang="en">Speed News</title>
-    <desc lang="en">The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p21968651_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261001090000 +0530" stop="20261001093000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
   <programme channel="WION.in" start="20261001093000 +0530" stop="20261001100000 +0530">
     <title lang="en">World Business Watch</title>
     <desc lang="en">The host presents information pertaining to business and economic developments from around the world and provides updates on current events.</desc>
@@ -3068,132 +2355,187 @@
     <category lang="en">News Bulletin</category>
     <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
   </programme>
+  <programme channel="WION.in" start="20261001213000 +0530" stop="20261001220000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261001220000 +0530" stop="20261001223000 +0530">
+    <title lang="en">Wion Pulse</title>
+    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Variety Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261001223000 +0530" stop="20261001230000 +0530">
+    <title lang="en">Wion Fineprint</title>
+    <desc lang="en">The host, a professional journalist, presents an in-depth analysis of international news and developments regarding social and economic issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373716_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261001230000 +0530" stop="20261001233000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261001233000 +0530" stop="20261002000000 +0530">
+    <title lang="en">Wion Pulse</title>
+    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Variety Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002000000 +0530" stop="20261002003000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002003000 +0530" stop="20261002010000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002010000 +0530" stop="20261002013000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002013000 +0530" stop="20261002020000 +0530">
+    <title lang="en">Wion Pulse</title>
+    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Variety Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002020000 +0530" stop="20261002023000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002023000 +0530" stop="20261002030000 +0530">
+    <title lang="en">WION Dispatch</title>
+    <desc lang="en">The host presents the latest political, social, sports and economic updates and speaks about the recent developments from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373714_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002030000 +0530" stop="20261002033000 +0530">
+    <title lang="en">Race To Power</title>
+    <desc lang="en">The host sheds light on the latest global news updates and developments pertaining to politics, economy and sociocultural affairs.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p25936778_b_h9_ac.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002033000 +0530" stop="20261002040000 +0530">
+    <title lang="en">Race To Power</title>
+    <desc lang="en">The host sheds light on the latest global news updates and developments pertaining to politics, economy and sociocultural affairs.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p25936778_b_h9_ac.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002040000 +0530" stop="20261002043000 +0530">
+    <title lang="en">Wion Defence Pulse</title>
+    <desc lang="en">The presenter provides an in-depth evaluation of global political and economic affairs. Key social stories from around the world are also examined during the broadcast.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p34022364_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002043000 +0530" stop="20261002050000 +0530">
+    <title lang="en">Wion Fineprint</title>
+    <desc lang="en">The host, a professional journalist, presents an in-depth analysis of international news and developments regarding social and economic issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373716_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002050000 +0530" stop="20261002053000 +0530">
+    <title lang="en">Wion Pulse</title>
+    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Variety Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002053000 +0530" stop="20261002060000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002060000 +0530" stop="20261002063000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002063000 +0530" stop="20261002070000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002070000 +0530" stop="20261002073000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002073000 +0530" stop="20261002080000 +0530">
+    <title lang="en">World DNA</title>
+    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002080000 +0530" stop="20261002083000 +0530">
+    <title lang="en">World DNA</title>
+    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002083000 +0530" stop="20261002090000 +0530">
+    <title lang="en">Speed News</title>
+    <desc lang="en">The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p21968651_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002090000 +0530" stop="20261002093000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261002093000 +0530" stop="20261002100000 +0530">
+    <title lang="en">World Business Watch</title>
+    <desc lang="en">The host presents information pertaining to business and economic developments from around the world and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p21001737_b_h9_ab.jpg?lock=880x660" />
+  </programme>
   <channel id="Rialto.nz">
     <display-name lang="en">Rialto</display-name>
     <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1PCTiXshgnq3uzQ6iNy4bI/d508329c01275f2a44184be0cccf046b/Rialto.png" />
     <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1PCTiXshgnq3uzQ6iNy4bI/d508329c01275f2a44184be0cccf046b/Rialto.png" />
     <url>http://www.sky.co.nz</url>
   </channel>
-  <programme start="20260930103500 +0000" stop="20260930123500 +0000" channel="Rialto.nz">
-    <title lang="en">A Single Shot</title>
-    <desc lang="en">The tragic death of a beautiful young girl starts a tense and atmospheric game of cat and mouse. 2013. UK, Canada. Director: David M. Rosenthal. Starring: Sam Rockwell, Jeffrey Wright.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260930123500 +0000" stop="20260930141000 +0000" channel="Rialto.nz">
-    <title lang="en">Blanquita</title>
-    <desc lang="en">Chilean orphan Blanquita becomes the key witness in a high-profile child trafficking scandal. 2022. Chile, Mexico. Director: Fernando Guzzoni. Starring: Laura Lopez, Alejandro Goic.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20260930141000 +0000" stop="20260930151500 +0000" channel="Rialto.nz">
-    <title lang="en">Diana: The Princess and the Bodyguard</title>
-    <desc lang="en">Archival footage and firsthand accounts uncover the development of the relationship between Princess Diana and her bodyguard. 2025. UK. Director: Amber Rondel.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260930151500 +0000" stop="20260930170500 +0000" channel="Rialto.nz">
-    <title lang="en">The Nature Of Love</title>
-    <desc lang="en">Sophia and Xaviers' marriage is thrown off balance when Slvian comes to renovate. 2023. Canada, France. Director: Monia Chokri. Starring: Magalie Lepine Blondeau, Pierre-Yves Cardinal.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20260930170500 +0000" stop="20260930185000 +0000" channel="Rialto.nz">
-    <title lang="en">Godard Cinema</title>
-    <desc lang="en">With over 60 years of cinema and 140 films under his belt, Jean-Luc Godard is one of the most renowned French New Wave artists of all time. 2022. France. Director: Cyril Leuthy.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260930185000 +0000" stop="20260930201500 +0000" channel="Rialto.nz">
-    <title lang="en">The White Sheik</title>
-    <desc lang="en">Newlywed Wanda's eyes are fixed on 'The White Sheik\.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20260930201500 +0000" stop="20260930215000 +0000" channel="Rialto.nz">
-    <title lang="en">Viktor</title>
-    <desc lang="en">A deeply personal audiovisual experience capturing a deaf person's navigation through the Russian invasion of Ukraine and its ensuing chaos. 2024. Denmark, Ukraine. Director: Olivier Sarbil.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260930215000 +0000" stop="20260930235000 +0000" channel="Rialto.nz">
-    <title lang="en">A Single Shot</title>
-    <desc lang="en">The tragic death of a beautiful young girl starts a tense and atmospheric game of cat and mouse. 2013. UK, Canada. Director: David M. Rosenthal. Starring: Sam Rockwell, Jeffrey Wright.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20260930235000 +0000" stop="20261001010000 +0000" channel="Rialto.nz">
-    <title lang="en">Diana: The Princess and the Bodyguard</title>
-    <desc lang="en">Archival footage and firsthand accounts uncover the development of the relationship between Princess Diana and her bodyguard. 2025. UK. Director: Amber Rondel.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261001010000 +0000" stop="20261001025000 +0000" channel="Rialto.nz">
-    <title lang="en">The Nature Of Love</title>
-    <desc lang="en">Sophia and Xaviers' marriage is thrown off balance when Slvian comes to renovate. 2023. Canada, France. Director: Monia Chokri. Starring: Magalie Lepine Blondeau, Pierre-Yves Cardinal.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20261001025000 +0000" stop="20261001042500 +0000" channel="Rialto.nz">
-    <title lang="en">Viktor</title>
-    <desc lang="en">A deeply personal audiovisual experience capturing a deaf person's navigation through the Russian invasion of Ukraine and its ensuing chaos. 2024. Denmark, Ukraine. Director: Olivier Sarbil.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261001042500 +0000" stop="20261001055500 +0000" channel="Rialto.nz">
-    <title lang="en">Universal Language</title>
-    <desc lang="en">Somewhere between Tehran and Winnipeg, seemingly unconnected lives intertwine in a symphony of quirk. 2024. Canada. Director: Matthew Rankin. Starring: Matthew Rankin, Pirouz Nemati.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>G</value>
-    </rating>
-  </programme>
-  <programme start="20261001055500 +0000" stop="20261001073000 +0000" channel="Rialto.nz">
-    <title lang="en">Sometimes I Think About Dying</title>
-    <desc lang="en">Fran may work a cubicle, but her mind wanders far beyond the confines of those four compact walls. 2023. USA. Director: Rachel Lambert. Starring: Daisy Ridley, Dave Merheje.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261001073000 +0000" stop="20261001092500 +0000" channel="Rialto.nz">
-    <title lang="en">Edge Of Life</title>
-    <desc lang="en">With the help of Psylocybin and traditional Amazonian medicinal practices, two Australian doctors lift the veil of mystery on death. 2025. Australia. Director: Lynette Wallworth. Starring:.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261001092500 +0000" stop="20261001105000 +0000" channel="Rialto.nz">
-    <title lang="en">BitterSweet</title>
-    <desc lang="en">Sam battles a system not equipt to deal with neurodivergence, as he struggles to get his family back. 2025. USA. Director: Carmen Emmi. Starring: Steven Martini, William Baldwin.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme start="20261001105000 +0000" stop="20261001120500 +0000" channel="Rialto.nz">
     <title lang="en">Stelarc: Suspension Of Disbelief</title>
     <desc lang="en">Sink your hooks into Cyprus-born Australian performance artist as he pushes the limits of imagination, and physical boundaries. 2025. Australia. Director: Richard Moore.</desc>
@@ -3512,6 +2854,137 @@
     <category lang="en">Episode</category>
     <rating system="BSA">
       <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261004022500 +0000" stop="20261004040500 +0000" channel="Rialto.nz">
+    <title lang="en">The Edge Of The Blade</title>
+    <desc lang="en">Marie-Rose proves that honour doesn't belong to men, by becoming one of France's most talented duelists. 2023. France. Director: Vincent Perez. Starring: Roschdy Zem, Doria Tillier.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20261004040500 +0000" stop="20261004054500 +0000" channel="Rialto.nz">
+    <title lang="en">Drazen</title>
+    <desc lang="en">Follow basketball legend Drazen Petrovic from determined young talent to global icon. 2024. Croatia. Directors: Danilo Serbedzija, Ljubo Zdjelarevic. Starring: Zrinka Cvitesic, Domagoj Nizic.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261004054500 +0000" stop="20261004073000 +0000" channel="Rialto.nz">
+    <title lang="en">Ice Ice Baby</title>
+    <desc lang="en">Read between the lines of the global number onw hit 'Ice Ice Baby', and look into the life of of Rob Van Winkle, aka 'Vanilla Ice'. 2022. USA. Directors: Hellen Murphy, Frank Licari.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20261004073000 +0000" stop="20261004083500 +0000" channel="Rialto.nz">
+    <title lang="en">Dirty Business</title>
+    <desc lang="en">A young girl contracts a serious infection after swimming in the sea. Dead fish appear along the riverbank, and two amateur detectives investigate. 2026. UK. Director: Joseph Bullman.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20261004083500 +0000" stop="20261004102000 +0000" channel="Rialto.nz">
+    <title lang="en">Six Inches Of Soil</title>
+    <desc lang="en">The story of three young farmers on the first year of their regenerative journey to heal the soil. 2024. UK. Director: Colin Ramsay.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261004102000 +0000" stop="20261004113000 +0000" channel="Rialto.nz">
+    <title lang="en">That Texas Jamboree</title>
+    <desc lang="en">The sheriff of Crescent city is disgraced when the crooked mayor forces him to shut down a popular medicine show. 1946. USA. Director: Ray Nazarro. Starring: Ken Curtis, Jeff Donnell.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20261004113000 +0000" stop="20261004122000 +0000" channel="Rialto.nz">
+    <title lang="en">Brassic</title>
+    <desc lang="en">7/1. Vinnie gathers the crew to remind the new gang who the big dog in town is. 2025. United Kingdom. Director: Jordan Hogg. Starring: Joe Gilgun, Michelle Keegan.</desc>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <rating system="BSA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261004122000 +0000" stop="20261004131500 +0000" channel="Rialto.nz">
+    <title lang="en">Brassic</title>
+    <desc lang="en">7/2. Tommo visits Germany to visit his son Hans, scheming to get Hans' grandparents to bankroll a new pub. 2025. United Kingdom. Director: Leon Lopez. Starring: Ulli Ackermann, Kayode Akinyemi.</desc>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <rating system="BSA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261004131500 +0000" stop="20261004140500 +0000" channel="Rialto.nz">
+    <title lang="en">Brassic</title>
+    <desc lang="en">7/3. Ronnie makes a revenge plans with Bruno to get payback on his bully. But things get complicated. 2025. UK. Director: Jordan Hogg. Starring: Neil Ashton, Barbara Ashworth.</desc>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <rating system="BSA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261004140500 +0000" stop="20261004155500 +0000" channel="Rialto.nz">
+    <title lang="en">The Nature Of Love</title>
+    <desc lang="en">Sophia and Xaviers' marriage is thrown off balance when Slvian comes to renovate. 2023. Canada, France. Director: Monia Chokri. Starring: Magalie Lepine Blondeau, Pierre-Yves Cardinal.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261004155500 +0000" stop="20261004173500 +0000" channel="Rialto.nz">
+    <title lang="en">Drazen</title>
+    <desc lang="en">Follow basketball legend Drazen Petrovic from determined young talent to global icon. 2024. Croatia. Directors: Danilo Serbedzija, Ljubo Zdjelarevic. Starring: Zrinka Cvitesic, Domagoj Nizic.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261004173500 +0000" stop="20261004192000 +0000" channel="Rialto.nz">
+    <title lang="en">Ice Ice Baby</title>
+    <desc lang="en">Read between the lines of the global number onw hit 'Ice Ice Baby', and look into the life of of Rob Van Winkle, aka 'Vanilla Ice'. 2022. USA. Directors: Hellen Murphy, Frank Licari.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20261004192000 +0000" stop="20261004202500 +0000" channel="Rialto.nz">
+    <title lang="en">Dirty Business</title>
+    <desc lang="en">A young girl contracts a serious infection after swimming in the sea. Dead fish appear along the riverbank, and two amateur detectives investigate. 2026. UK. Director: Joseph Bullman.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20261004202500 +0000" stop="20261004213500 +0000" channel="Rialto.nz">
+    <title lang="en">That Texas Jamboree</title>
+    <desc lang="en">The sheriff of Crescent city is disgraced when the crooked mayor forces him to shut down a popular medicine show. 1946. USA. Director: Ray Nazarro. Starring: Ken Curtis, Jeff Donnell.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20261004213500 +0000" stop="20261004232000 +0000" channel="Rialto.nz">
+    <title lang="en">Six Inches Of Soil</title>
+    <desc lang="en">The story of three young farmers on the first year of their regenerative journey to heal the soil. 2024. UK. Director: Colin Ramsay.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261004232000 +0000" stop="20261005011500 +0000" channel="Rialto.nz">
+    <title lang="en">The Nature Of Love</title>
+    <desc lang="en">Sophia and Xaviers' marriage is thrown off balance when Slvian comes to renovate. 2023. Canada, France. Director: Monia Chokri. Starring: Magalie Lepine Blondeau, Pierre-Yves Cardinal.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>16</value>
     </rating>
   </programme>
   </tv>
