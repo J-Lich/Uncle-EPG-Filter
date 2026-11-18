@@ -23,18 +23,6 @@
     <icon src="https://imageresizer.static9.net.au/cG4xwjSyWXQkB5QretMn72K34tw=/120x0/smart/https%3A%2F%2Fs3-ap-southeast-2.amazonaws.com%2Fnine-tvmg-images-prod%2F18%2F77%2F83%2F75%2F71%2F1877837571.png" />
     <url>http://www.epgshare01.online</url>
   </channel>
-  <programme start="20261116030000 +0800" stop="20261116090000 +0800" channel="TVSN.au">
-    <title lang="en">Thank you for Watching TVSN (?)</title>
-  </programme>
-  <programme start="20261116090000 +0800" stop="20261116150000 +0800" channel="TVSN.au">
-    <title lang="en">Thank you for Watching TVSN (?)</title>
-  </programme>
-  <programme start="20261116150000 +0800" stop="20261116210000 +0800" channel="TVSN.au">
-    <title lang="en">Thank you for Watching TVSN (?)</title>
-  </programme>
-  <programme start="20261116210000 +0800" stop="20261117030000 +0800" channel="TVSN.au">
-    <title lang="en">Thank you for Watching TVSN (?)</title>
-  </programme>
   <programme start="20261117030000 +0800" stop="20261117090000 +0800" channel="TVSN.au">
     <title lang="en">Thank you for Watching TVSN (?)</title>
   </programme>
@@ -79,94 +67,6 @@
   </programme>
   <programme start="20261120150000 +0800" stop="20261120210000 +0800" channel="TVSN.au">
     <title lang="en">Thank you for Watching TVSN (?)</title>
-  </programme>
-  <programme start="20261117020000 +0800" stop="20261117050000 +0800" channel="SkyRacing1.au">
-    <title lang="en">LIVE: Sky Racing 1 Early Morning</title>
-    <desc lang="en">Thoroughbreds from Wolverhampton, Mahoning Valley, Finger Lakes, Zia Park.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/95/68/03/17/70/07/87/72/17/3/9568031770078772173?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117050000 +0800" stop="20261117060000 +0800" channel="SkyRacing1.au">
-    <title lang="en">LIVE: Sky Racing 1 Race Morning</title>
-    <desc lang="en">Thoroughbreds from Gavea; Greyhound Racing from Angle Park.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/72/12/17/08/89/91/68/66/05/10721217088991686605?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117060000 +0800" stop="20261117070000 +0800" channel="SkyRacing1.au">
-    <title lang="en">LIVE: Racing Xtra</title>
-    <desc lang="en">Lewis Willoughby and Nick Berney break down racing and sport each weekday with the latest odds, moves and betting insights.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/88/77/32/46/11/73/78/96/85/12887732461173789685?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117070000 +0800" stop="20261117090000 +0800" channel="SkyRacing1.au">
-    <title lang="en">LIVE: Sky Racing 1 Race Morning</title>
-    <desc lang="en">Thoroughbreds from Gavea; Greyhound Racing from Angle Park.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/72/12/17/08/89/91/68/66/05/10721217088991686605?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117090000 +0800" stop="20261117150000 +0800" channel="SkyRacing1.au">
-    <title lang="en">LIVE: Sky Racing 1 Race Day</title>
-    <desc lang="en">Thoroughbreds from Scone, Kyneton, Wolverhampton, Mahoning Valley, Finger Lakes, Zia Park, Gavea; Greyhound Racing from Angle Park, Horsham, Horsham Extra, Gosford, Ballarat, Hobart, Q2 Parklands; Harness Racing from Albion Park, Menangle.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/43/80/24/67/37/28/10/09/61/3/4380246737281009613?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117150000 +0800" stop="20261117190000 +0800" channel="SkyRacing1.au">
-    <title lang="en">LIVE: Sky Racing 1 Race Night</title>
-    <desc lang="en">Thoroughbreds from Angers; Greyhound Racing from Gosford, Warragul, Bulli, Wagga, Townsville, Darwin, Mandurah, Ballarat, Ballarat Extra, Tralee, Q2 Parklands; Harness Racing from Albion Park, Shepparton, Young, Gloucester Park.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/19/75/81/11/06/55/47/54/05/16197581110655475405?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117190000 +0800" stop="20261117210000 +0800" channel="SkyRacing1.au">
-    <title lang="en">LIVE: Sky Racing 1 Late Night</title>
-    <desc lang="en">Thoroughbreds from Carlisle, Limerick, Adana, Angers, Chantilly; Greyhound Racing from Warragul, Bulli, Wagga, Townsville, Darwin, Mandurah, Townsville Extra, Sheffield, Newcastle, Tralee; Harness Racing from Young, Gloucester Park.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/60/14/02/15/86/94/15/72/61/13601402158694157261?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117210000 +0800" stop="20261118020000 +0800" channel="SkyRacing1.au">
-    <title lang="en">LIVE: Sky Racing 1 Late Night</title>
-    <desc lang="en">Thoroughbreds from Southwell, Carlisle, Limerick, Adana, Antalya, Chantilly, Lyon La Soie; Greyhound Racing from Mandurah, Sheffield, Newcastle, Romford, Monmore, Tralee, Valley; Harness Racing from Vincennes.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/60/14/02/15/86/94/15/72/61/13601402158694157261?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
   </programme>
   <programme start="20261118020000 +0800" stop="20261118050000 +0800" channel="SkyRacing1.au">
     <title lang="en">LIVE: Sky Racing 1 Early Morning</title>
@@ -584,57 +484,68 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117020000 +0800" stop="20261117050000 +0800" channel="SkyRacing2.au">
-    <title lang="en">LIVE: Sky Racing 2 Early Morning</title>
-    <desc lang="en">Greyhound Racing from Yarmouth, Nottingham, Harlow; Harness Racing from Le Croise Laroche.</desc>
+  <programme start="20261122210000 +0800" stop="20261123020000 +0800" channel="SkyRacing1.au">
+    <title lang="en">LIVE: Sky Racing 1 Late Night</title>
+    <desc lang="en">Thoroughbreds from Lingfield, Exeter, Cork, Adana, Izmir, Al Ain, Fontainebleau, Toulouse; Greyhound Racing from Yarmouth, Sunderland, Hove Extra, Sheffield, Valley, Doncaster Extra, Lifford; Harness Racing from Vincennes.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/43/27/22/82/98/18/62/49/25/10432722829818624925?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/60/14/02/15/86/94/15/72/61/13601402158694157261?resolution=360x245" />
+    <episode-num system="onscreen">S26 E326</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117050000 +0800" stop="20261117090000 +0800" channel="SkyRacing2.au">
-    <title lang="en">LIVE: Sky Racing 2 Race Morning</title>
-    <desc lang="en">Greyhound Racing from Yarmouth, Nottingham, Harlow; Harness Racing from Mohawk, Western Fair, Northfield Park, Yonkers.</desc>
+  <programme start="20261123020000 +0800" stop="20261123050000 +0800" channel="SkyRacing1.au">
+    <title lang="en">LIVE: Sky Racing 1 Early Morning</title>
+    <desc lang="en">Thoroughbreds from Woodbine, Gulfstream Park, Laurel Park, Belmont Park, Del Mar, Mahoning Valley, Zia Park.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/41/94/76/20/38/51/37/86/53/10419476203851378653?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/95/68/03/17/70/07/87/72/17/3/9568031770078772173?resolution=360x245" />
+    <episode-num system="onscreen">S26 E327</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117090000 +0800" stop="20261117150000 +0800" channel="SkyRacing2.au">
-    <title lang="en">LIVE: Sky Racing 2 Race Day</title>
-    <desc lang="en">Thoroughbreds from Tokyo City Keiba; Greyhound Racing from Gosford, Ballarat, Yarmouth, Nottingham, Harlow, Q2 Parklands; Harness Racing from Mohawk, Western Fair, Northfield Park, Yonkers, Le Croise Laroche.</desc>
+  <programme start="20261123050000 +0800" stop="20261123090000 +0800" channel="SkyRacing1.au">
+    <title lang="en">LIVE: Sky Racing 1 Race Morning</title>
+    <desc lang="en">Thoroughbreds from Gavea; Greyhound Racing from Shepparton.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/31/53/88/60/41/46/69/71/17/13315388604146697117?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/72/12/17/08/89/91/68/66/05/10721217088991686605?resolution=360x245" />
+    <episode-num system="onscreen">S26 E327</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117150000 +0800" stop="20261117210000 +0800" channel="SkyRacing2.au">
-    <title lang="en">LIVE: Sky Racing 2 Race Night</title>
-    <desc lang="en">Thoroughbreds from Carlisle, Limerick, Tokyo City Keiba, Adana, Angers, Chantilly; Greyhound Racing from Gosford, Darwin, Mandurah, Ballarat, Ballarat Extra, Sheffield, Newcastle, Tralee, Q2 Parklands, Q2 Parklands Extra.</desc>
+  <programme start="20261123090000 +0800" stop="20261123150000 +0800" channel="SkyRacing1.au">
+    <title lang="en">LIVE: Sky Racing 1 Race Day</title>
+    <desc lang="en">Thoroughbreds from Ballina, Woodbine, Gulfstream Park, Laurel Park, Belmont Park, Del Mar, Mahoning Valley, Zia Park, Gavea; Greyhound Racing from Grafton, Shepparton, Shepparton Extra, Ballarat, Warrnambool, Warrnambool Extra; Harness Racing from Goulburn, Maryborough, Gawler, Pinjarra.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/72/08/02/40/55/57/62/44/77/12720802405557624477?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/43/80/24/67/37/28/10/09/61/3/4380246737281009613?resolution=360x245" />
+    <episode-num system="onscreen">S26 E327</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117210000 +0800" stop="20261118020000 +0800" channel="SkyRacing2.au">
-    <title lang="en">LIVE: Sky Racing 2 Late Night</title>
-    <desc lang="en">Thoroughbreds from Leicester, Carlisle, Limerick, Adana, Antalya, Finger Lakes Extra, Mahoning Valley Extra, Chantilly, Lyon La Soie; Greyhound Racing from Mandurah, Sheffield, Newcastle, Romford, Monmore, Tralee, Valley; Harness Racing from Vincennes.</desc>
+  <programme start="20261123150000 +0800" stop="20261123190000 +0800" channel="SkyRacing1.au">
+    <title lang="en">LIVE: Sky Racing 1 Race Night</title>
+    <desc lang="en">Greyhound Racing from Grafton, Maitland, Gunnedah, Sandown Park, Q Straight, Murray Bridge, Mandurah, Launceston, Ballarat Extra; Harness Racing from Redcliffe, Pinjarra.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/99/15/66/39/90/49/18/82/53/10991566399049188253?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/19/75/81/11/06/55/47/54/05/16197581110655475405?resolution=360x245" />
+    <episode-num system="onscreen">S26 E327</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123190000 +0800" stop="20261123210000 +0800" channel="SkyRacing1.au">
+    <title lang="en">LIVE: Sky Racing 1 Late Night</title>
+    <desc lang="en">Thoroughbreds from Chantilly; Greyhound Racing from Maitland, Gunnedah, Sandown Park, Q Straight, Q Straight Extra, Murray Bridge, Mandurah, Launceston.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/60/14/02/15/86/94/15/72/61/13601402158694157261?resolution=360x245" />
+    <episode-num system="onscreen">S26 E327</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
@@ -903,325 +814,57 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117000000 +0800" stop="20261117003000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Formline Extra Encore</title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/58/57/92/96/33/25/25/53/77/16585792963325255377?resolution=360x245" />
-    <episode-num system="onscreen">S26 E320</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117003000 +0800" stop="20261117010000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">News Central Encore</title>
-    <desc lang="en">Ally Mosley, Ray Thomas, Neil Breen &amp; Corey Brown discuss all the latest racing news.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/18/91/20/38/47/24/85/82/35/7/1891203847248582357?resolution=360x245" />
-    <episode-num system="onscreen">S26 E30</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117010000 +0800" stop="20261117020000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Thoroughbred Weekly Encore</title>
-    <desc lang="en">A weekly roundup of SKY Racing's best thoroughbred racing action including results, replays and interviews.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/33/97/91/40/71/16/63/03/18/8/3397914071166303188?resolution=360x245" />
-    <episode-num system="onscreen">S26 E31</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117020000 +0800" stop="20261117023000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Hawkesbury Trials Encore</title>
-    <desc lang="en">Barrier Trials from Hawkesbury.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/88/49/44/48/34/90/64/13/94/5/8849444834906413945?resolution=360x245" />
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117023000 +0800" stop="20261117030000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Thoroughbreds Are Go Encore</title>
-    <desc lang="en">Caroline Searcy presents Thoroughbreds Are Go, promoting ex-racehorses into new lives away from the racetrack and assisting their new owners with expert advice on their ongoing care..</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/70/12/91/31/38/97/68/47/29/13701291313897684729?resolution=360x245" />
-    <episode-num system="onscreen">S26 E9</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117030000 +0800" stop="20261117033000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay - Goulburn</title>
-    <desc lang="en">Goulburn. Highlights of Thoroughbred racing from Goulburn.</desc>
+  <programme start="20261122210000 +0800" stop="20261123020000 +0800" channel="SkyRacing2.au">
+    <title lang="en">LIVE: Sky Racing 2 Late Night</title>
+    <desc lang="en">Thoroughbreds from Exeter, Cork, Punchestown, Adana, Izmir, Gulfstream Park Extra, Laurel Park Extra, Mahoning Valley, Fontainebleau, Fakenham; Greyhound Racing from Yarmouth, Sunderland, Hove Extra, Sheffield, Valley, Doncaster Extra, Lifford; Harness Racing from Vincennes.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
-    <episode-num system="onscreen">S26 E1</episode-num>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/99/15/66/39/90/49/18/82/53/10991566399049188253?resolution=360x245" />
+    <episode-num system="onscreen">S26 E326</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117033000 +0800" stop="20261117040000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Formline Extra Encore</title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/58/57/92/96/33/25/25/53/77/16585792963325255377?resolution=360x245" />
-    <episode-num system="onscreen">S26 E320</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117040000 +0800" stop="20261117043000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">News Central Encore</title>
-    <desc lang="en">Ally Mosley, Ray Thomas, Neil Breen &amp; Corey Brown discuss all the latest racing news.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/18/91/20/38/47/24/85/82/35/7/1891203847248582357?resolution=360x245" />
-    <episode-num system="onscreen">S26 E30</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117043000 +0800" stop="20261117050000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Thoroughbreds Are Go Encore</title>
-    <desc lang="en">Caroline Searcy presents Thoroughbreds Are Go, promoting ex-racehorses into new lives away from the racetrack and assisting their new owners with expert advice on their ongoing care..</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/70/12/91/31/38/97/68/47/29/13701291313897684729?resolution=360x245" />
-    <episode-num system="onscreen">S26 E9</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117050000 +0800" stop="20261117053000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay - Goulburn</title>
-    <desc lang="en">Goulburn. Highlights of Thoroughbred racing from Goulburn.</desc>
+  <programme start="20261123020000 +0800" stop="20261123050000 +0800" channel="SkyRacing2.au">
+    <title lang="en">LIVE: Sky Racing 2 Early Morning</title>
+    <desc lang="en">Greyhound Racing from Kinsley, Clonmel.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
-    <episode-num system="onscreen">S26 E1</episode-num>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/43/27/22/82/98/18/62/49/25/10432722829818624925?resolution=360x245" />
+    <episode-num system="onscreen">S26 E327</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117053000 +0800" stop="20261117083000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">LIVE: NSW &amp; QLD Barrier Trials</title>
-    <desc lang="en">Barrier Trials from Royal Randwick &amp; Doomben.</desc>
+  <programme start="20261123050000 +0800" stop="20261123090000 +0800" channel="SkyRacing2.au">
+    <title lang="en">LIVE: Sky Racing 2 Race Morning</title>
+    <desc lang="en">Greyhound Racing from Kinsley, Clonmel; Harness Racing from Flamboro Downs, Mohawk, Northfield Park.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/77/15/94/89/27/50/62/39/46/9/7715948927506239469?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/41/94/76/20/38/51/37/86/53/10419476203851378653?resolution=360x245" />
+    <episode-num system="onscreen">S26 E327</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117083000 +0800" stop="20261117090000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay - Goulburn</title>
-    <desc lang="en">Goulburn. Highlights of Thoroughbred racing from Goulburn.</desc>
+  <programme start="20261123090000 +0800" stop="20261123150000 +0800" channel="SkyRacing2.au">
+    <title lang="en">LIVE: Sky Racing 2 Race Day</title>
+    <desc lang="en">Thoroughbreds from Los Alamitos Qtr Horse; Greyhound Racing from Lithgow, Warrnambool, Kinsley, Clonmel; Harness Racing from Flamboro Downs, Mohawk, Northfield Park.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
-    <episode-num system="onscreen">S26 E1</episode-num>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/31/53/88/60/41/46/69/71/17/13315388604146697117?resolution=360x245" />
+    <episode-num system="onscreen">S26 E327</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117090000 +0800" stop="20261117093000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">LIVE: Thoroughbred Preview Live</title>
-    <desc lang="en">The most comprehensive form guide for today's racing, stay up to date with expert tips, exclusive ratings, strike rates and 'black book' specials.</desc>
+  <programme start="20261123150000 +0800" stop="20261123210000 +0800" channel="SkyRacing2.au">
+    <title lang="en">LIVE: Sky Racing 2 Race Night</title>
+    <desc lang="en">Thoroughbreds from Kempton, Ludlow, Bursa, Nantes, Chantilly; Greyhound Racing from Lithgow, Dunstall Park, Romford, Harlow, Youghal; Harness Racing from Vincennes.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/01/23/62/77/11/86/59/33/53/12012362771186593353?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117093000 +0800" stop="20261117143000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">LIVE: Sky Thoroughbred Central Race Day</title>
-    <desc lang="en">Thoroughbreds from Scone.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/32/32/17/78/87/96/40/25/49/16323217788796402549?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117143000 +0800" stop="20261117150000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">LIVE: Formline Extra Live</title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/07/45/72/00/31/05/97/36/1/7407457200310597361?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117150000 +0800" stop="20261117153000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Randwick Trials Encore</title>
-    <desc lang="en">Barrier Trials from Royal Randwick.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/85/67/25/16/69/92/16/68/65/14856725166992166865?resolution=360x245" />
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117153000 +0800" stop="20261117160000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Thoroughbreds Are Go Encore</title>
-    <desc lang="en">Caroline Searcy presents Thoroughbreds Are Go, promoting ex-racehorses into new lives away from the racetrack and assisting their new owners with expert advice on their ongoing care..</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/70/12/91/31/38/97/68/47/29/13701291313897684729?resolution=360x245" />
-    <episode-num system="onscreen">S26 E9</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117160000 +0800" stop="20261117163000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Punter's Intelligence</title>
-    <desc lang="en">Ben Way and Brad Gray use the Punter's Intelligence app to crunch the key statistical data from the past week of racing and help you find a future winner.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/96/66/09/02/24/57/92/35/65/10966609022457923565?resolution=360x245" />
-    <episode-num system="onscreen">S26 E34</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117163000 +0800" stop="20261117173000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Everest Carnival HQ</title>
-    <desc lang="en">Sky Thoroughbred Central’s premium weekly racing program dedicated to the horses, people, performances and stories shaping Australia’s biggest race carnivals..</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/51/60/16/90/58/37/79/75/44/5/5160169058377975445?resolution=360x245" />
-    <episode-num system="onscreen">S26 E7</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117173000 +0800" stop="20261117180000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">It's Gold</title>
-    <desc lang="en">Beyond the glamour &amp; past the finish line lies the real heart of racing, where every story is worth it's weight in gold. Hosted by Julie Snook. It's Gold looks at the people behind Australia's racing industry - the trainers, owners, jockeys, and characters who gice the sport it's personality..</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/91/54/35/79/33/08/38/80/10/10915435793308388010?resolution=360x245" />
-    <episode-num system="onscreen">S26 E10</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117180000 +0800" stop="20261117183000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Doomben Trials Encore</title>
-    <desc lang="en">Barrier Trials from Doomben.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/96/43/72/12/13/80/44/09/76/16964372121380440976?resolution=360x245" />
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117183000 +0800" stop="20261117190000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay - Scone</title>
-    <desc lang="en">Scone. Highlights of Thoroughbred racing from Scone.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117190000 +0800" stop="20261117193000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Punter's Intelligence Encore</title>
-    <desc lang="en">Ben Way and Brad Gray use the Punter's Intelligence app to crunch the key statistical data from the past week of racing and help you find a future winner.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/96/66/09/02/24/57/92/35/65/10966609022457923565?resolution=360x245" />
-    <episode-num system="onscreen">S26 E34</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117193000 +0800" stop="20261117200000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Thoroughbreds Are Go Encore</title>
-    <desc lang="en">Caroline Searcy presents Thoroughbreds Are Go, promoting ex-racehorses into new lives away from the racetrack and assisting their new owners with expert advice on their ongoing care..</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/13/70/12/91/31/38/97/68/47/29/13701291313897684729?resolution=360x245" />
-    <episode-num system="onscreen">S26 E9</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117200000 +0800" stop="20261117203000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Formline Extra Encore</title>
-    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/58/57/92/96/33/25/25/53/77/16585792963325255377?resolution=360x245" />
-    <episode-num system="onscreen">S26 E321</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117203000 +0800" stop="20261117210000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay - Scone</title>
-    <desc lang="en">Scone. Highlights of Thoroughbred racing from Scone.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117210000 +0800" stop="20261117220000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Everest Carnival HQ Encore</title>
-    <desc lang="en">Sky Thoroughbred Central’s premium weekly racing program dedicated to the horses, people, performances and stories shaping Australia’s biggest race carnivals..</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/51/60/16/90/58/37/79/75/44/5/5160169058377975445?resolution=360x245" />
-    <episode-num system="onscreen">S26 E7</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117220000 +0800" stop="20261117223000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Randwick Trials Encore</title>
-    <desc lang="en">Barrier Trials from Royal Randwick.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/85/67/25/16/69/92/16/68/65/14856725166992166865?resolution=360x245" />
-    <episode-num system="onscreen">S26 E1</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117223000 +0800" stop="20261117230000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">It's Gold Encore</title>
-    <desc lang="en">Beyond the glamour &amp; past the finish line lies the real heart of racing, where every story is worth it's weight in gold. Hosted by Julie Snook. It's Gold looks at the people behind Australia's racing industry - the trainers, owners, jockeys, and characters who gice the sport it's personality..</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/91/54/35/79/33/08/38/80/10/10915435793308388010?resolution=360x245" />
-    <episode-num system="onscreen">S26 E10</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117230000 +0800" stop="20261117233000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Punter's Intelligence Encore</title>
-    <desc lang="en">Ben Way and Brad Gray use the Punter's Intelligence app to crunch the key statistical data from the past week of racing and help you find a future winner.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/96/66/09/02/24/57/92/35/65/10966609022457923565?resolution=360x245" />
-    <episode-num system="onscreen">S26 E34</episode-num>
-    <rating system="AU">
-      <value>PG</value>
-    </rating>
-  </programme>
-  <programme start="20261117233000 +0800" stop="20261118000000 +0800" channel="SkyThoroughbredCentral.au">
-    <title lang="en">Racing Replay - Scone</title>
-    <desc lang="en">Scone. Highlights of Thoroughbred racing from Scone.</desc>
-    <date>2026</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
-    <episode-num system="onscreen">S26 E1</episode-num>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/72/08/02/40/55/57/62/44/77/12720802405557624477?resolution=360x245" />
+    <episode-num system="onscreen">S26 E327</episode-num>
     <rating system="AU">
       <value>PG</value>
     </rating>
@@ -2636,298 +2279,408 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117000000 +0800" stop="20261117003000 +0800" channel="Racingcom.au">
-    <title lang="en">Racing Review - Wangaratta</title>
-    <desc lang="en">Wangaratta. A full recap of racing from Wangaratta - Monday, 16 November 2026.</desc>
+  <programme start="20261122230000 +0800" stop="20261123000000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Showcase Replay - Kembla Grange</title>
+    <desc lang="en">Kembla Grange. Highlights of Thoroughbred racing from Kembla Grange.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/47/14/98/55/65/44/66/50/77/3/4714985565446650773?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123000000 +0800" stop="20261123003000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Formline Extra Encore</title>
+    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/58/57/92/96/33/25/25/53/77/16585792963325255377?resolution=360x245" />
+    <episode-num system="onscreen">S26 E326</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123003000 +0800" stop="20261123010000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Cairns</title>
+    <desc lang="en">Cairns. Highlights of Thoroughbred racing from Cairns.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117003000 +0800" stop="20261117010000 +0800" channel="Racingcom.au">
-    <title lang="en">Racing Review - Moe</title>
-    <desc lang="en">Moe. A full recap of racing from Moe - Tuesday, 8 September 2026.</desc>
+  <programme start="20261123010000 +0800" stop="20261123020000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Showcase Replay - Sunshine Coast</title>
+    <desc lang="en">Sunshine Coast. Highlights of Thoroughbred racing from Sunshine Coast.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/47/14/98/55/65/44/66/50/77/3/4714985565446650773?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123020000 +0800" stop="20261123023000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Bunbury</title>
+    <desc lang="en">Bunbury. Highlights of Thoroughbred racing from Bunbury.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117010000 +0800" stop="20261117013000 +0800" channel="Racingcom.au">
-    <title lang="en">Racing Review - Donald</title>
-    <desc lang="en">Donald. A full recap of racing from Donald - Saturday, 12 September 2026.</desc>
+  <programme start="20261123023000 +0800" stop="20261123030000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Taree</title>
+    <desc lang="en">Taree. Highlights of Thoroughbred racing from Taree.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117013000 +0800" stop="20261117023000 +0800" channel="Racingcom.au">
-    <title lang="en">Flashback: James McDonald 131</title>
-    <desc lang="en">After creating Australian racing history, Racing.com looks back on some of J-Mac's best wins in this special Flashback.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/11/96/21/70/55/51/83/60/62/52/11962170555183606252?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261117023000 +0800" stop="20261117030000 +0800" channel="Racingcom.au">
-    <title lang="en">Racing Review - Wangaratta</title>
-    <desc lang="en">Wangaratta. A full recap of racing from Wangaratta - Monday, 16 November 2026.</desc>
+  <programme start="20261123030000 +0800" stop="20261123033000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Cairns</title>
+    <desc lang="en">Cairns. Highlights of Thoroughbred racing from Cairns.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117030000 +0800" stop="20261117040000 +0800" channel="Racingcom.au">
-    <title lang="en">Flashback: Cranbourne Cup</title>
-    <desc lang="en">We relive the great editions of the Cranbourne Cup.</desc>
-    <date>2024</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/11/68/27/04/18/55/08/48/70/97/11682704185508487097?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261117040000 +0800" stop="20261117043000 +0800" channel="Racingcom.au">
-    <title lang="en">Foxcatcher: Pandora's Fox</title>
-    <desc lang="en">Jules Vallance, Clint Hutchison and Nic Ashman look back on the weekend's racing, dissect where races were won and lost, and highlight horses to follow.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/15/18/84/41/62/57/16/20/54/21/15188441625716205421?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261117043000 +0800" stop="20261117050000 +0800" channel="Racingcom.au">
-    <title lang="en">Get On Blackbook</title>
-    <desc lang="en">Join the team every Monday to dissect all the weekend's racing, covering all the big stories, the horses to follow and futures bets.</desc>
+  <programme start="20261123033000 +0800" stop="20261123040000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Canberra</title>
+    <desc lang="en">Canberra. Highlights of Thoroughbred racing from Canberra.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/28/54/74/83/07/39/89/87/34/9/2854748307398987349?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117050000 +0800" stop="20261117075000 +0800" channel="Racingcom.au">
-    <title lang="en">LIVE: Giddy Up</title>
-    <desc lang="en">Racing expert Gareth Hall hits the airwaves for SENTrack with a fast-paced show that will set the day's race news agenda plus form analysis with all the winning info.</desc>
+  <programme start="20261123040000 +0800" stop="20261123043000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Bunbury</title>
+    <desc lang="en">Bunbury. Highlights of Thoroughbred racing from Bunbury.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/35/56/24/13/23/00/94/29/46/1/3556241323009429461?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117075000 +0800" stop="20261117090000 +0800" channel="Racingcom.au">
-    <title lang="en">LIVE: Giddy Up</title>
-    <desc lang="en">Racing expert Gareth Hall hits the airwaves for SENTrack with a fast-paced show that will set the day's race news agenda plus form analysis with all the winning info.</desc>
+  <programme start="20261123043000 +0800" stop="20261123050000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Taree</title>
+    <desc lang="en">Taree. Highlights of Thoroughbred racing from Taree.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/35/56/24/13/23/00/94/29/46/1/3556241323009429461?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117090000 +0800" stop="20261117093000 +0800" channel="Racingcom.au">
-    <title lang="en">High Stakes</title>
-    <desc lang="en">Join Nigel Carmody and Gilbert Gardiner as they sit down with some of the leading participants in the Racing Industry.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/17/36/98/51/46/53/45/92/89/05/17369851465345928905?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261117093000 +0800" stop="20261117100000 +0800" channel="Racingcom.au">
-    <title lang="en">Racing Review - Wangaratta</title>
-    <desc lang="en">Wangaratta. A full recap of racing from Wangaratta - Monday, 16 November 2026.</desc>
+  <programme start="20261123050000 +0800" stop="20261123053000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Cairns</title>
+    <desc lang="en">Cairns. Highlights of Thoroughbred racing from Cairns.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117100000 +0800" stop="20261117141500 +0800" channel="Racingcom.au">
-    <title lang="en">LIVE: Racing Live - Tuesday</title>
-    <desc lang="en">Tuesday. LIVE racing from Kyneton.</desc>
+  <programme start="20261123053000 +0800" stop="20261123060000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Canberra</title>
+    <desc lang="en">Canberra. Highlights of Thoroughbred racing from Canberra.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/70/02/86/83/86/88/86/15/55/7/7002868386888615557?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117141500 +0800" stop="20261117144500 +0800" channel="Racingcom.au">
-    <title lang="en">Get On Blackbook</title>
-    <desc lang="en">Join the team every Monday to dissect all the weekend's racing, covering all the big stories, the horses to follow and futures bets.</desc>
+  <programme start="20261123060000 +0800" stop="20261123063000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Bunbury</title>
+    <desc lang="en">Bunbury. Highlights of Thoroughbred racing from Bunbury.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/28/54/74/83/07/39/89/87/34/9/2854748307398987349?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117144500 +0800" stop="20261117150000 +0800" channel="Racingcom.au">
-    <title lang="en">Foxcatcher: Pandora's Fox</title>
-    <desc lang="en">Jules Vallance, Clint Hutchison and Nic Ashman look back on the weekend's racing, dissect where races were won and lost, and highlight horses to follow.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/15/18/84/41/62/57/16/20/54/21/15188441625716205421?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261117150000 +0800" stop="20261117151500 +0800" channel="Racingcom.au">
-    <title lang="en">Foxcatcher: Pandora's Fox</title>
-    <desc lang="en">Jules Vallance, Clint Hutchison and Nic Ashman look back on the weekend's racing, dissect where races were won and lost, and highlight horses to follow.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/15/18/84/41/62/57/16/20/54/21/15188441625716205421?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261117151500 +0800" stop="20261117154500 +0800" channel="Racingcom.au">
-    <title lang="en">Racing Review - Kyneton</title>
-    <desc lang="en">Kyneton. A full recap of racing from Kyneton - Tuesday, 17 November 2026.</desc>
+  <programme start="20261123063000 +0800" stop="20261123070000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Taree</title>
+    <desc lang="en">Taree. Highlights of Thoroughbred racing from Taree.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117154500 +0800" stop="20261117164500 +0800" channel="Racingcom.au">
-    <title lang="en">Flashback: Cranbourne Cup</title>
-    <desc lang="en">We relive the great editions of the Cranbourne Cup.</desc>
-    <date>2024</date>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/11/68/27/04/18/55/08/48/70/97/11682704185508487097?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261117164500 +0800" stop="20261117171500 +0800" channel="Racingcom.au">
-    <title lang="en">Racing Review - Kyneton</title>
-    <desc lang="en">Kyneton. A full recap of racing from Kyneton - Tuesday, 17 November 2026.</desc>
+  <programme start="20261123070000 +0800" stop="20261123073000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Cairns</title>
+    <desc lang="en">Cairns. Highlights of Thoroughbred racing from Cairns.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117171500 +0800" stop="20261117183000 +0800" channel="Racingcom.au">
-    <title lang="en">Black Caviar: The Horse of a Lifetime</title>
-    <desc lang="en">Twenty-five straight victories as seen through the eyes of the trainer Peter Moody and Black Caviar's jockey Luke Nolen in an exclusive personal and open account of what actually happened in racing's field of dreams.</desc>
-    <date>2013</date>
-    <category lang="en">Documentary</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/59/25/01/84/16/80/55/07/26/5/5925018416805507265?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261117183000 +0800" stop="20261117190000 +0800" channel="Racingcom.au">
-    <title lang="en">Get On Blackbook</title>
-    <desc lang="en">Join the team every Monday to dissect all the weekend's racing, covering all the big stories, the horses to follow and futures bets.</desc>
+  <programme start="20261123073000 +0800" stop="20261123080000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Canberra</title>
+    <desc lang="en">Canberra. Highlights of Thoroughbred racing from Canberra.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/28/54/74/83/07/39/89/87/34/9/2854748307398987349?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117190000 +0800" stop="20261117193000 +0800" channel="Racingcom.au">
-    <title lang="en">Foxcatcher: Pandora's Fox</title>
-    <desc lang="en">Jules Vallance, Clint Hutchison and Nic Ashman look back on the weekend's racing, dissect where races were won and lost, and highlight horses to follow.</desc>
-    <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/15/18/84/41/62/57/16/20/54/21/15188441625716205421?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261117193000 +0800" stop="20261117200000 +0800" channel="Racingcom.au">
-    <title lang="en">Racing Review - Kyneton</title>
-    <desc lang="en">Kyneton. A full recap of racing from Kyneton - Tuesday, 17 November 2026.</desc>
+  <programme start="20261123080000 +0800" stop="20261123090000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">LIVE: Thoroughbred Preview Live</title>
+    <desc lang="en">The most comprehensive form guide for today's racing, stay up to date with expert tips, exclusive ratings, strike rates and 'black book' specials.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/12/01/23/62/77/11/86/59/33/53/12012362771186593353?resolution=360x245" />
+    <episode-num system="onscreen">S26 E327</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117200000 +0800" stop="20261117210000 +0800" channel="Racingcom.au">
-    <title lang="en">Glen Boss: In His Own Words</title>
-    <desc lang="en">From Champion to Legend, Glen Boss reflects on his dream Melbourne Cup association with fellow Hall of Fame inductee Makybe Diva.</desc>
-    <date>2026</date>
-    <category lang="en">Documentary</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/14/58/19/63/40/84/78/36/67/10145819634084783667?resolution=360x245" />
-    <rating system="AU">
-      <value>NC</value>
-    </rating>
-  </programme>
-  <programme start="20261117210000 +0800" stop="20261117213000 +0800" channel="Racingcom.au">
-    <title lang="en">Racing Review - Wangaratta</title>
-    <desc lang="en">Wangaratta. A full recap of racing from Wangaratta - Monday, 16 November 2026.</desc>
+  <programme start="20261123090000 +0800" stop="20261123140000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">LIVE: Sky Thoroughbred Central Race Day</title>
+    <desc lang="en">Thoroughbreds from Ballina.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/16/32/32/17/78/87/96/40/25/49/16323217788796402549?resolution=360x245" />
+    <episode-num system="onscreen">S26 E327</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117213000 +0800" stop="20261117220000 +0800" channel="Racingcom.au">
-    <title lang="en">Racing Review - Kyneton</title>
-    <desc lang="en">Kyneton. A full recap of racing from Kyneton - Tuesday, 17 November 2026.</desc>
+  <programme start="20261123140000 +0800" stop="20261123143000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">LIVE: Formline Extra Live</title>
+    <desc lang="en">Know the contenders from the pretenders as our team of Sky Racing expert form analysts dissect tomorrow's meeting.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/74/07/45/72/00/31/05/97/36/1/7407457200310597361?resolution=360x245" />
+    <episode-num system="onscreen">S26 E327</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117220000 +0800" stop="20261117223000 +0800" channel="Racingcom.au">
-    <title lang="en">Racing Review - Wangaratta</title>
-    <desc lang="en">Wangaratta. A full recap of racing from Wangaratta - Monday, 16 November 2026.</desc>
+  <programme start="20261123143000 +0800" stop="20261123150000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117223000 +0800" stop="20261117230000 +0800" channel="Racingcom.au">
-    <title lang="en">Racing Review - Kyneton</title>
-    <desc lang="en">Kyneton. A full recap of racing from Kyneton - Tuesday, 17 November 2026.</desc>
+  <programme start="20261123150000 +0800" stop="20261123153000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117230000 +0800" stop="20261117233000 +0800" channel="Racingcom.au">
-    <title lang="en">Racing Review - Wangaratta</title>
-    <desc lang="en">Wangaratta. A full recap of racing from Wangaratta - Monday, 16 November 2026.</desc>
+  <programme start="20261123153000 +0800" stop="20261123160000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
     </rating>
   </programme>
-  <programme start="20261117233000 +0800" stop="20261118000000 +0800" channel="Racingcom.au">
-    <title lang="en">Racing Review - Kyneton</title>
-    <desc lang="en">Kyneton. A full recap of racing from Kyneton - Tuesday, 17 November 2026.</desc>
+  <programme start="20261123160000 +0800" stop="20261123163000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
     <date>2026</date>
     <category lang="en">Sport</category>
-    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
     <rating system="AU">
-      <value>NC</value>
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123163000 +0800" stop="20261123170000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123170000 +0800" stop="20261123173000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123173000 +0800" stop="20261123180000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123180000 +0800" stop="20261123183000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123183000 +0800" stop="20261123190000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123190000 +0800" stop="20261123193000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123193000 +0800" stop="20261123200000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123200000 +0800" stop="20261123203000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123203000 +0800" stop="20261123210000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123210000 +0800" stop="20261123213000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123213000 +0800" stop="20261123220000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123220000 +0800" stop="20261123223000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123223000 +0800" stop="20261123230000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261123230000 +0800" stop="20261123233000 +0800" channel="SkyThoroughbredCentral.au">
+    <title lang="en">Racing Replay - Ballina</title>
+    <desc lang="en">Ballina. Highlights of Thoroughbred racing from Ballina.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/10/55/26/35/19/26/99/44/21/33/10552635192699442133?resolution=360x245" />
+    <episode-num system="onscreen">S26 E1</episode-num>
+    <rating system="AU">
+      <value>PG</value>
     </rating>
   </programme>
   <programme start="20261118000000 +0800" stop="20261118003000 +0800" channel="Racingcom.au">
@@ -4053,180 +3806,358 @@
       <value>NC</value>
     </rating>
   </programme>
+  <programme start="20261122233000 +0800" stop="20261123001500 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Cranbourne</title>
+    <desc lang="en">Cranbourne. A full recap of racing from The Valley @Southside Cranbourne - Friday, 2 October 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123001500 +0800" stop="20261123004500 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Kilmore</title>
+    <desc lang="en">Kilmore. A full recap of racing from Kilmore - Monday, 28 September 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123004500 +0800" stop="20261123011500 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Clare</title>
+    <desc lang="en">Clare. A full recap of racing from Clare - Sunday, 22 October 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123011500 +0800" stop="20261123014500 +0800" channel="Racingcom.au">
+    <title lang="en">The Wrap: Group 1 Glory</title>
+    <desc lang="en">Fields of Omagh. Terry Bailey and Adam Olszanski remember some of the greatest champions of the Australian Turf.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/59/64/97/81/26/96/32/99/96/14596497812696329996?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123014500 +0800" stop="20261123023000 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Cranbourne</title>
+    <desc lang="en">Cranbourne. A full recap of racing from The Valley @Southside Cranbourne - Friday, 2 October 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123023000 +0800" stop="20261123030000 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Kilmore</title>
+    <desc lang="en">Kilmore. A full recap of racing from Kilmore - Monday, 28 September 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123030000 +0800" stop="20261123041500 +0800" channel="Racingcom.au">
+    <title lang="en">Black Caviar: The Horse of a Lifetime</title>
+    <desc lang="en">Twenty-five straight victories as seen through the eyes of the trainer Peter Moody and Black Caviar's jockey Luke Nolen in an exclusive personal and open account of what actually happened in racing's field of dreams.</desc>
+    <date>2013</date>
+    <category lang="en">Documentary</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/59/25/01/84/16/80/55/07/26/5/5925018416805507265?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123041500 +0800" stop="20261123050000 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Cranbourne</title>
+    <desc lang="en">Cranbourne. A full recap of racing from The Valley @Southside Cranbourne - Friday, 2 October 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123050000 +0800" stop="20261123075000 +0800" channel="Racingcom.au">
+    <title lang="en">LIVE: Giddy Up</title>
+    <desc lang="en">Racing expert Gareth Hall hits the airwaves for SENTrack with a fast-paced show that will set the day's race news agenda plus form analysis with all the winning info.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/35/56/24/13/23/00/94/29/46/1/3556241323009429461?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123075000 +0800" stop="20261123090000 +0800" channel="Racingcom.au">
+    <title lang="en">LIVE: Giddy Up</title>
+    <desc lang="en">Racing expert Gareth Hall hits the airwaves for SENTrack with a fast-paced show that will set the day's race news agenda plus form analysis with all the winning info.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/35/56/24/13/23/00/94/29/46/1/3556241323009429461?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123090000 +0800" stop="20261123094500 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Caulfield</title>
+    <desc lang="en">Caulfield. A full recap of racing from Underwood Stakes and Sir Rupert Clarke Stakes Day, Caulfield - Saturday, 19 September 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123094500 +0800" stop="20261123103000 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - The Valley @ Sandown</title>
+    <desc lang="en">The Valley @ Sandown. A full recap of racing from Moir Stakes Day, The Valley @ Sandown - Saturday, 5 September 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123103000 +0800" stop="20261123111500 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Flemington</title>
+    <desc lang="en">Flemington. A full recap of racing from Flemington - Saturday, 12 September 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123111500 +0800" stop="20261123120000 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Caulfield</title>
+    <desc lang="en">Caulfield. A full recap of racing from Underwood Stakes and Sir Rupert Clarke Stakes Day, Caulfield - Saturday, 19 September 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123120000 +0800" stop="20261123124500 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - The Valley @ Caulfield</title>
+    <desc lang="en">The Valley @ Caulfield. A full recap of racing from Manikato Stakes and Feehan Stakes Day, The Valley @ Caulfield - Sunday, 27 September 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123124500 +0800" stop="20261123133000 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Flemington</title>
+    <desc lang="en">Flemington. A full recap of racing from Flemington - Saturday, 12 September 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123133000 +0800" stop="20261123141500 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Caulfield</title>
+    <desc lang="en">Caulfield. A full recap of racing from Underwood Stakes and Sir Rupert Clarke Stakes Day, Caulfield - Saturday, 19 September 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123141500 +0800" stop="20261123144500 +0800" channel="Racingcom.au">
+    <title lang="en">Foxcatcher: Pandora's Fox</title>
+    <desc lang="en">Jules Vallance, Clint Hutchison and Nic Ashman look back on the weekend's racing, dissect where races were won and lost, and highlight horses to follow.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/15/18/84/41/62/57/16/20/54/21/15188441625716205421?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123144500 +0800" stop="20261123150000 +0800" channel="Racingcom.au">
+    <title lang="en">Get On Blackbook</title>
+    <desc lang="en">Join the team every Monday to dissect all the weekend's racing, covering all the big stories, the horses to follow and futures bets.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/28/54/74/83/07/39/89/87/34/9/2854748307398987349?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123150000 +0800" stop="20261123151500 +0800" channel="Racingcom.au">
+    <title lang="en">Get On Blackbook</title>
+    <desc lang="en">Join the team every Monday to dissect all the weekend's racing, covering all the big stories, the horses to follow and futures bets.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/28/54/74/83/07/39/89/87/34/9/2854748307398987349?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123151500 +0800" stop="20261123160000 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Cranbourne</title>
+    <desc lang="en">Cranbourne. A full recap of racing from The Valley @Southside Cranbourne - Friday, 2 October 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123160000 +0800" stop="20261123163000 +0800" channel="Racingcom.au">
+    <title lang="en">The Wrap: Group 1 Glory</title>
+    <desc lang="en">Fields of Omagh. Terry Bailey and Adam Olszanski remember some of the greatest champions of the Australian Turf.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/14/59/64/97/81/26/96/32/99/96/14596497812696329996?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123163000 +0800" stop="20261123170000 +0800" channel="Racingcom.au">
+    <title lang="en">Foxcatcher: Pandora's Fox</title>
+    <desc lang="en">Jules Vallance, Clint Hutchison and Nic Ashman look back on the weekend's racing, dissect where races were won and lost, and highlight horses to follow.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/15/18/84/41/62/57/16/20/54/21/15188441625716205421?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123170000 +0800" stop="20261123173000 +0800" channel="Racingcom.au">
+    <title lang="en">Get On Blackbook</title>
+    <desc lang="en">Join the team every Monday to dissect all the weekend's racing, covering all the big stories, the horses to follow and futures bets.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/28/54/74/83/07/39/89/87/34/9/2854748307398987349?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123173000 +0800" stop="20261123181500 +0800" channel="Racingcom.au">
+    <title lang="en">Better Loosen Up Tribute</title>
+    <desc lang="en">Australia has lost another National Champion. Better Loosen Up has run his last race - but the horse that put Australian Racing on the International stage has left us with plenty of highlights and in this tribute we re-live every brilliant moment.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/34/26/31/06/67/61/14/45/18/7/3426310667611445187?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123181500 +0800" stop="20261123184500 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Kilmore</title>
+    <desc lang="en">Kilmore. A full recap of racing from Kilmore - Monday, 28 September 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123184500 +0800" stop="20261123191500 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Clare</title>
+    <desc lang="en">Clare. A full recap of racing from Clare - Sunday, 22 October 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123191500 +0800" stop="20261123194500 +0800" channel="Racingcom.au">
+    <title lang="en">Foxcatcher: Pandora's Fox</title>
+    <desc lang="en">Jules Vallance, Clint Hutchison and Nic Ashman look back on the weekend's racing, dissect where races were won and lost, and highlight horses to follow.</desc>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/15/18/84/41/62/57/16/20/54/21/15188441625716205421?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123194500 +0800" stop="20261123201500 +0800" channel="Racingcom.au">
+    <title lang="en">Get On Blackbook</title>
+    <desc lang="en">Join the team every Monday to dissect all the weekend's racing, covering all the big stories, the horses to follow and futures bets.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/28/54/74/83/07/39/89/87/34/9/2854748307398987349?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123201500 +0800" stop="20261123210000 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Cranbourne</title>
+    <desc lang="en">Cranbourne. A full recap of racing from The Valley @Southside Cranbourne - Friday, 2 October 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123210000 +0800" stop="20261123213000 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Kilmore</title>
+    <desc lang="en">Kilmore. A full recap of racing from Kilmore - Monday, 28 September 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123213000 +0800" stop="20261123220000 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Clare</title>
+    <desc lang="en">Clare. A full recap of racing from Clare - Sunday, 22 October 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123220000 +0800" stop="20261123224500 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Cranbourne</title>
+    <desc lang="en">Cranbourne. A full recap of racing from The Valley @Southside Cranbourne - Friday, 2 October 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123224500 +0800" stop="20261123231500 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Kilmore</title>
+    <desc lang="en">Kilmore. A full recap of racing from Kilmore - Monday, 28 September 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
+  <programme start="20261123231500 +0800" stop="20261123234500 +0800" channel="Racingcom.au">
+    <title lang="en">Racing Review - Clare</title>
+    <desc lang="en">Clare. A full recap of racing from Clare - Sunday, 22 October 2026.</desc>
+    <date>2026</date>
+    <category lang="en">Sport</category>
+    <icon src="https://s3-ap-southeast-2.amazonaws.com/nine-tvmg-images-prod/82/17/71/22/00/21/74/67/81/3/8217712200217467813?resolution=360x245" />
+    <rating system="AU">
+      <value>NC</value>
+    </rating>
+  </programme>
   <channel id="WION.in">
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cLnBMmSM.png" />
     <icon src="https://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/cLnBMmSM.png" />
     <url>http://www.mydishtv.in</url>
     <display-name lang="en">WION</display-name>
   </channel>
-  <programme channel="WION.in" start="20261117220000 +0530" stop="20261117223000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261117223000 +0530" stop="20261117230000 +0530">
-    <title lang="en">Wion Fineprint</title>
-    <desc lang="en">The host, a professional journalist, presents an in-depth analysis of international news and developments regarding social and economic issues.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373716_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261117230000 +0530" stop="20261117233000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261117233000 +0530" stop="20261118000000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118000000 +0530" stop="20261118003000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118003000 +0530" stop="20261118010000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118010000 +0530" stop="20261118013000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118013000 +0530" stop="20261118020000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118020000 +0530" stop="20261118023000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118023000 +0530" stop="20261118030000 +0530">
-    <title lang="en">WION Dispatch</title>
-    <desc lang="en">The host presents the latest political, social, sports and economic updates and speaks about the recent developments from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373714_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118030000 +0530" stop="20261118033000 +0530">
-    <title lang="en">Race To Power</title>
-    <desc lang="en">The host sheds light on the latest global news updates and developments pertaining to politics, economy and sociocultural affairs.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p25936778_b_h9_ac.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118033000 +0530" stop="20261118040000 +0530">
-    <title lang="en">Race To Power</title>
-    <desc lang="en">The host sheds light on the latest global news updates and developments pertaining to politics, economy and sociocultural affairs.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p25936778_b_h9_ac.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118040000 +0530" stop="20261118043000 +0530">
-    <title lang="en">Wion Defence Pulse</title>
-    <desc lang="en">The presenter provides an in-depth evaluation of global political and economic affairs. Key social stories from around the world are also examined during the broadcast.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p34022364_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118043000 +0530" stop="20261118050000 +0530">
-    <title lang="en">Wion Fineprint</title>
-    <desc lang="en">The host, a professional journalist, presents an in-depth analysis of international news and developments regarding social and economic issues.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373716_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118050000 +0530" stop="20261118053000 +0530">
-    <title lang="en">Wion Pulse</title>
-    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
-    <category lang="en">TV Show</category>
-    <category lang="en">Variety Show</category>
-    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118053000 +0530" stop="20261118060000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118060000 +0530" stop="20261118063000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118063000 +0530" stop="20261118070000 +0530">
-    <title lang="en">Gravitas</title>
-    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118070000 +0530" stop="20261118073000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118073000 +0530" stop="20261118080000 +0530">
-    <title lang="en">World DNA</title>
-    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118080000 +0530" stop="20261118083000 +0530">
-    <title lang="en">World DNA</title>
-    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118083000 +0530" stop="20261118090000 +0530">
-    <title lang="en">Speed News</title>
-    <desc lang="en">The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p21968651_b_h9_ab.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118090000 +0530" stop="20261118093000 +0530">
-    <title lang="en">Top Stories</title>
-    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
-  </programme>
-  <programme channel="WION.in" start="20261118093000 +0530" stop="20261118100000 +0530">
-    <title lang="en">World Business Watch</title>
-    <desc lang="en">The host presents information pertaining to business and economic developments from around the world and provides updates on current events.</desc>
-    <category lang="en">News</category>
-    <category lang="en">News Bulletin</category>
-    <icon src="https://dtil.tmsimg.com/assets/p21001737_b_h9_ab.jpg?lock=880x660" />
-  </programme>
   <programme channel="WION.in" start="20261118100000 +0530" stop="20261118103000 +0530">
     <title lang="en">Top Stories</title>
     <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
@@ -4402,167 +4333,180 @@
     <category lang="en">Variety Show</category>
     <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
   </programme>
+  <programme channel="WION.in" start="20261118223000 +0530" stop="20261118230000 +0530">
+    <title lang="en">Wion Fineprint</title>
+    <desc lang="en">The host, a professional journalist, presents an in-depth analysis of international news and developments regarding social and economic issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373716_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261118230000 +0530" stop="20261118233000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261118233000 +0530" stop="20261119000000 +0530">
+    <title lang="en">Wion Pulse</title>
+    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Variety Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119000000 +0530" stop="20261119003000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119003000 +0530" stop="20261119010000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119010000 +0530" stop="20261119013000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119013000 +0530" stop="20261119020000 +0530">
+    <title lang="en">Wion Pulse</title>
+    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Variety Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119020000 +0530" stop="20261119023000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119023000 +0530" stop="20261119030000 +0530">
+    <title lang="en">WION Dispatch</title>
+    <desc lang="en">The host presents the latest political, social, sports and economic updates and speaks about the recent developments from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373714_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119030000 +0530" stop="20261119033000 +0530">
+    <title lang="en">Race To Power</title>
+    <desc lang="en">The host sheds light on the latest global news updates and developments pertaining to politics, economy and sociocultural affairs.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p25936778_b_h9_ac.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119033000 +0530" stop="20261119040000 +0530">
+    <title lang="en">Race To Power</title>
+    <desc lang="en">The host sheds light on the latest global news updates and developments pertaining to politics, economy and sociocultural affairs.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p25936778_b_h9_ac.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119040000 +0530" stop="20261119043000 +0530">
+    <title lang="en">Wion Defence Pulse</title>
+    <desc lang="en">The presenter provides an in-depth evaluation of global political and economic affairs. Key social stories from around the world are also examined during the broadcast.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p34022364_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119043000 +0530" stop="20261119050000 +0530">
+    <title lang="en">Wion Fineprint</title>
+    <desc lang="en">The host, a professional journalist, presents an in-depth analysis of international news and developments regarding social and economic issues.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373716_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119050000 +0530" stop="20261119053000 +0530">
+    <title lang="en">Wion Pulse</title>
+    <desc lang="en">The host shares a detailed analysis of the latest news stories from various spheres including political and socio-economic issues from across the globe.</desc>
+    <category lang="en">TV Show</category>
+    <category lang="en">Variety Show</category>
+    <icon src="https://dtil.tmsimg.com/assets/p23844063_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119053000 +0530" stop="20261119060000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119060000 +0530" stop="20261119063000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119063000 +0530" stop="20261119070000 +0530">
+    <title lang="en">Gravitas</title>
+    <desc lang="en">The host provides a concise overview and in-depth analysis of social, political and economic news stories from around the world.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373232_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119070000 +0530" stop="20261119073000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119073000 +0530" stop="20261119080000 +0530">
+    <title lang="en">World DNA</title>
+    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119080000 +0530" stop="20261119083000 +0530">
+    <title lang="en">World DNA</title>
+    <desc lang="en">The host shares detailed economic and sociopolitical updates from Asia and sheds light on significant national and international events.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p24649309_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119083000 +0530" stop="20261119090000 +0530">
+    <title lang="en">Speed News</title>
+    <desc lang="en">The host presents a quick update on the top stories of the day ranging from politics and business to sports and entertainment.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p21968651_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119090000 +0530" stop="20261119093000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119093000 +0530" stop="20261119100000 +0530">
+    <title lang="en">World Business Watch</title>
+    <desc lang="en">The host presents information pertaining to business and economic developments from around the world and provides updates on current events.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p21001737_b_h9_ab.jpg?lock=880x660" />
+  </programme>
+  <programme channel="WION.in" start="20261119100000 +0530" stop="20261119103000 +0530">
+    <title lang="en">Top Stories</title>
+    <desc lang="en">The host presents some of the latest news stories, current affairs and developments pertaining to economics, politics and sports.</desc>
+    <category lang="en">News</category>
+    <category lang="en">News Bulletin</category>
+    <icon src="https://dtil.tmsimg.com/assets/p18373675_b_h9_aa.jpg?lock=880x660" />
+  </programme>
   <channel id="Rialto.nz">
     <display-name lang="en">Rialto</display-name>
     <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1PCTiXshgnq3uzQ6iNy4bI/d508329c01275f2a44184be0cccf046b/Rialto.png" />
     <icon src="https://images.skyone.co.nz/contentful/dcojl03mw8gy/1PCTiXshgnq3uzQ6iNy4bI/d508329c01275f2a44184be0cccf046b/Rialto.png" />
     <url>http://www.sky.co.nz</url>
   </channel>
-  <programme start="20261117100000 +0000" stop="20261117113000 +0000" channel="Rialto.nz">
-    <title lang="en">Vacancy</title>
-    <desc lang="en">A couple staying in a remote hotel realise the room in the low-budget slashers they're watching on TV looks familiar. 2007. USA. Director: Nimrod Antal. Starring: Kate Beckinsale, Luke Wilson.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20261117113000 +0000" stop="20261117121500 +0000" channel="Rialto.nz">
-    <title lang="en">Mr Loverman</title>
-    <desc lang="en">1/1. Carmel invites her Christian friend group over for lunch in order to ruin Barry's plans to ask her for a divorce. 2024. UK. Director: Hong Khaou. Starring: Lennie James, Ariyon Bakare.</desc>
-    <category lang="en">Episode</category>
-    <category lang="en">Series</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261117121500 +0000" stop="20261117130000 +0000" channel="Rialto.nz">
-    <title lang="en">Mr Loverman</title>
-    <desc lang="en">1/2. Barry decides to come clean to Morris about his inability to tell Carmen about his intentions for divorce. 2024. UK. Director: Hong Khaou. Starring: Lennie James, Keenan Munn-Francis.</desc>
-    <category lang="en">Episode</category>
-    <category lang="en">Series</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261117130000 +0000" stop="20261117134500 +0000" channel="Rialto.nz">
-    <title lang="en">Mr Loverman</title>
-    <desc lang="en">1/3. Morris plans to propose after Barry accidentally lead him to believe he wanted marriage. 2024. UK. Director: Hong Khaou. Starring: Lennie James, Tamara Lawrance.</desc>
-    <category lang="en">Episode</category>
-    <category lang="en">Series</category>
-    <rating system="BSA">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20261117134500 +0000" stop="20261117150500 +0000" channel="Rialto.nz">
-    <title lang="en">The House Within</title>
-    <desc lang="en">An intimate portrait of one Aotearoa's literary treasures, internationally celebrated writer Fiona Kidman. This contemplative film examines the ways in which life and fiction collide and how, with time, they become inescapably braided together.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261117150500 +0000" stop="20261117164000 +0000" channel="Rialto.nz">
-    <title lang="en">Miller's Girl</title>
-    <desc lang="en">Teacher Jonathan Miller gives a talented young student a creative writing assignment which will force them both to confront their darkest selves.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261117164000 +0000" stop="20261117182000 +0000" channel="Rialto.nz">
-    <title lang="en">Hearts Of Darkness: A Fimmaker's Apocalypse</title>
-    <desc lang="en">A dive into how Francis Coppola's, 'Apocalypse Now' nearly ended his life and career. 1991. USA. Director: Fax Bahr, Eleanor Coppola, George Hickenlooper.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261117182000 +0000" stop="20261117191500 +0000" channel="Rialto.nz">
-    <title lang="en">Beyond</title>
-    <desc lang="en">2/2. An impure half-human baby is born to the vampire overlord Ion, complicating things. 2026. Germany. Director: Christian Alvart, Adolfo J. Kolmerer. Starring: Miguel Álvarez, Lucas Gregorowicz.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20261117191500 +0000" stop="20261117204500 +0000" channel="Rialto.nz">
-    <title lang="en">Vacancy</title>
-    <desc lang="en">A couple staying in a remote hotel realise the room in the low-budget slashers they're watching on TV looks familiar. 2007. USA. Director: Nimrod Antal. Starring: Kate Beckinsale, Luke Wilson.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20261117204500 +0000" stop="20261117220500 +0000" channel="Rialto.nz">
-    <title lang="en">The House Within</title>
-    <desc lang="en">An intimate portrait of one Aotearoa's literary treasures, internationally celebrated writer Fiona Kidman. This contemplative film examines the ways in which life and fiction collide and how, with time, they become inescapably braided together.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261117220500 +0000" stop="20261117234000 +0000" channel="Rialto.nz">
-    <title lang="en">Miller's Girl</title>
-    <desc lang="en">Teacher Jonathan Miller gives a talented young student a creative writing assignment which will force them both to confront their darkest selves.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261117234000 +0000" stop="20261118012000 +0000" channel="Rialto.nz">
-    <title lang="en">Hearts Of Darkness: A Fimmaker's Apocalypse</title>
-    <desc lang="en">A dive into how Francis Coppola's, 'Apocalypse Now' nearly ended his life and career. 1991. USA. Director: Fax Bahr, Eleanor Coppola, George Hickenlooper.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261118012000 +0000" stop="20261118021500 +0000" channel="Rialto.nz">
-    <title lang="en">Beyond</title>
-    <desc lang="en">2/2. An impure half-human baby is born to the vampire overlord Ion, complicating things. 2026. Germany. Director: Christian Alvart, Adolfo J. Kolmerer. Starring: Miguel Álvarez, Lucas Gregorowicz.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20261118021500 +0000" stop="20261118034500 +0000" channel="Rialto.nz">
-    <title lang="en">Vacancy</title>
-    <desc lang="en">A couple staying in a remote hotel realise the room in the low-budget slashers they're watching on TV looks familiar. 2007. USA. Director: Nimrod Antal. Starring: Kate Beckinsale, Luke Wilson.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20261118034500 +0000" stop="20261118040000 +0000" channel="Rialto.nz">
-    <title lang="en">Payback</title>
-    <desc lang="en">A welfare department's insidious prejudice is challenged by a group of unlikely heroes. 2024. NZ. Director: Mia Blake. Starring: Caleb Teaupa, Gentiane Lupi.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261118040000 +0000" stop="20261118055000 +0000" channel="Rialto.nz">
-    <title lang="en">The Italians</title>
-    <desc lang="en">A young Italian man breaks tradition by introducing his new non-Italian girlfriend to his familiy. 2025. USA. Director: Michelle Danner. Starring: Abigail Breslin, Matthew Daddario.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261118055000 +0000" stop="20261118073000 +0000" channel="Rialto.nz">
-    <title lang="en">Christy</title>
-    <desc lang="en">When Christy is thrown out by his foster family, his estranged older brother Cork must take him in. 2025. Ireland, UK. Director: Brendan Canty. Starring: Danny Power, Diarmuid Noyes.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>16</value>
-    </rating>
-  </programme>
-  <programme start="20261118073000 +0000" stop="20261118090500 +0000" channel="Rialto.nz">
-    <title lang="en">The Outsiders</title>
-    <desc lang="en">A member of a rival gang accidentally kills a member of the other, deepening the divide. 1983. USA, France. Director: Francis Ford Coppola. Starring: C. Thomas Howell, Matt Dillon.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
-  <programme start="20261118090500 +0000" stop="20261118104000 +0000" channel="Rialto.nz">
-    <title lang="en">Floodland</title>
-    <desc lang="en">The rising tides of the climate crisis threaten to swallow Lismore Australia, and the long-standing indigenous way of life along with it. 2026. Australia. Director: Jordan Giusti.</desc>
-    <category lang="en">Episode</category>
-    <rating system="BSA">
-      <value>M</value>
-    </rating>
-  </programme>
   <programme start="20261118104000 +0000" stop="20261118121000 +0000" channel="Rialto.nz">
     <title lang="en">The Strangers: Chapter 1</title>
     <desc lang="en">A young couple break down in an eerie village where they are hunted by three masked strangers. 2024. UK, USA. Director: Renny Harlin. Starring: Madelaine Petsch, Ryan Bown.</desc>
@@ -4904,6 +4848,137 @@
     <category lang="en">Episode</category>
     <rating system="BSA">
       <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20261121001000 +0000" stop="20261121015000 +0000" channel="Rialto.nz">
+    <title lang="en">Luka</title>
+    <desc lang="en">A young ambitious soldier posts up in a fort where men have been waiting in vain for a mythical enemy. 2023. Belgium, Italy. Director: Jessica Woodworth. Starring: Jonas Smulders, Geraldine Chaplin.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261121015000 +0000" stop="20261121032500 +0000" channel="Rialto.nz">
+    <title lang="en">The Strangers: Chapter 3</title>
+    <desc lang="en">In the final part of the Strangers Trilogy, Maya realises that the only way out, in in. 2026. USA, UK. Director: Renny Harlin. Starring: Hannah Galway, Ema Horvath.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261121032500 +0000" stop="20261121034500 +0000" channel="Rialto.nz">
+    <title lang="en">Who Do We Have Here</title>
+    <desc lang="en">A children's TV show character wakes up in a human body, and struggles to adapt to the real world. 2024. NZ. Director: Jasper Sutcliffe. Starring: Thomas Steinmann, Alaina Pitt.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20261121034500 +0000" stop="20261121053000 +0000" channel="Rialto.nz">
+    <title lang="en">Steppenwolf</title>
+    <desc lang="en">In order to find her kidnapped son, Tamara enlists an escaped prisoner to find him. 2024. Kazakhstan. Director: Adilkhan Yerzhanov. Starring: Berik Aytzhanov, Azamat Nigmanov.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261121053000 +0000" stop="20261121073000 +0000" channel="Rialto.nz">
+    <title lang="en">The Return</title>
+    <desc lang="en">After washing ashore, haggard and unrecognizable, Odysseus must save his family and retake his throne. 2024. Italy, Greece. Director: Uberto Pasolini. Starring: Charlie Plummer, Marwan Kenzari.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20261121073000 +0000" stop="20261121091500 +0000" channel="Rialto.nz">
+    <title lang="en">I Was A Stranger</title>
+    <desc lang="en">Five strangers lives intertwine when one desperate choice snowballs on the Mediterranean. 2024. Jordan, Palestine. Director: Brandt Anderson. Starring: Yasmine Al Massri, Yahya Mahayni.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20261121091500 +0000" stop="20261121112500 +0000" channel="Rialto.nz">
+    <title lang="en">Alpha</title>
+    <desc lang="en">13-year-old Alpha returns home to her single mother with a tattoo on her arm, their world crumbles around them. 2025. France. Director: Julia Ducournau. Starring: Tahar Rahim, Golshifteh Farahani.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261121112500 +0000" stop="20261121125500 +0000" channel="Rialto.nz">
+    <title lang="en">Universal Language</title>
+    <desc lang="en">Somewhere between Tehran and Winnipeg, seemingly unconnected lives intertwine in a symphony of quirk. 2024. Canada. Director: Matthew Rankin. Starring: Matthew Rankin, Pirouz Nemati.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>G</value>
+    </rating>
+  </programme>
+  <programme start="20261121125500 +0000" stop="20261121134000 +0000" channel="Rialto.nz">
+    <title lang="en">The Congregation</title>
+    <desc lang="en">2/4. Rumours spread about Eva, and Orjan takes on a bigger role in preparing for Christ's return. 2024. Sweden. Director: Patrik Gyllstrom. Starring: Aliette Opheim, Alexander Jubell.</desc>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <rating system="BSA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261121134000 +0000" stop="20261121142500 +0000" channel="Rialto.nz">
+    <title lang="en">The Congregation</title>
+    <desc lang="en">2/5. Irma was wrong, and Orjan must maintain order as even Lillian starts to question her role. 2024. Sweden. Director: Patrik Gyllstrom. Starring: Aliette Opheim, Alexander Jubell.</desc>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <rating system="BSA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261121142500 +0000" stop="20261121151000 +0000" channel="Rialto.nz">
+    <title lang="en">The Congregation</title>
+    <desc lang="en">2/6. Eva is confronted about Orjan before she goes to Seville for a conference. 2024. Sweden. Director: Goran Kapetanovic. Starring: Aliette Opheim, Sara Alexandersson.</desc>
+    <category lang="en">Episode</category>
+    <category lang="en">Series</category>
+    <rating system="BSA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261121151000 +0000" stop="20261121165000 +0000" channel="Rialto.nz">
+    <title lang="en">Welcome to Yiddishland</title>
+    <desc lang="en">Follow the pioneering artists of a global initiative aiming to revive the endangered Yiddish language. 2024. Australia. Director: Ros Horin.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>PG</value>
+    </rating>
+  </programme>
+  <programme start="20261121165000 +0000" stop="20261121183500 +0000" channel="Rialto.nz">
+    <title lang="en">Steppenwolf</title>
+    <desc lang="en">In order to find her kidnapped son, Tamara enlists an escaped prisoner to find him. 2024. Kazakhstan. Director: Adilkhan Yerzhanov. Starring: Berik Aytzhanov, Azamat Nigmanov.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>16</value>
+    </rating>
+  </programme>
+  <programme start="20261121183500 +0000" stop="20261121203500 +0000" channel="Rialto.nz">
+    <title lang="en">The Return</title>
+    <desc lang="en">After washing ashore, haggard and unrecognizable, Odysseus must save his family and retake his throne. 2024. Italy, Greece. Director: Uberto Pasolini. Starring: Charlie Plummer, Marwan Kenzari.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20261121203500 +0000" stop="20261121222000 +0000" channel="Rialto.nz">
+    <title lang="en">I Was A Stranger</title>
+    <desc lang="en">Five strangers lives intertwine when one desperate choice snowballs on the Mediterranean. 2024. Jordan, Palestine. Director: Brandt Anderson. Starring: Yasmine Al Massri, Yahya Mahayni.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>M</value>
+    </rating>
+  </programme>
+  <programme start="20261121222000 +0000" stop="20261122003000 +0000" channel="Rialto.nz">
+    <title lang="en">Alpha</title>
+    <desc lang="en">13-year-old Alpha returns home to her single mother with a tattoo on her arm, their world crumbles around them. 2025. France. Director: Julia Ducournau. Starring: Tahar Rahim, Golshifteh Farahani.</desc>
+    <category lang="en">Episode</category>
+    <rating system="BSA">
+      <value>16</value>
     </rating>
   </programme>
   </tv>
